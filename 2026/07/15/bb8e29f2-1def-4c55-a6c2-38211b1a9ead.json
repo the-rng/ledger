@@ -1,0 +1,22 @@
+{
+    "round_id": "bb8e29f2-1def-4c55-a6c2-38211b1a9ead",
+    "draw_title": "Test",
+    "competition_url": "https://test.com",
+    "operator": {
+        "name": "The-RNG",
+        "website": "https://the-rng.com",
+        "company_number": "SC1111111"
+    },
+    "drand_server_seed": "13f7f72488dd98afeb89db5b213d5d53bc6cc959316b07fd8b8afa9b4d82240e",
+    "drand_seed_hash": "8fe7c2856eaf8e2fb24f0b66e5009a40664c5982865f563aebb65adcac16c42772417dd7671393a34695a897f404a35d",
+    "client_seed": "1784159200916",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 100,
+    "max_tickets": 10000,
+    "combined_hash": "0aa16f059b15505bb05178064f1a1cb7157f90e1a2c07b331cc2b66613dcfc14",
+    "result": "1803, 5068, 8529, 2272, 3318",
+    "external_round_id": "30451948",
+    "processing_status": "completed",
+    "created_at": "2026-07-15T23:46:40.000000Z",
+    "revealed_at": "2026-07-15T23:46:50.000000Z"
+}
