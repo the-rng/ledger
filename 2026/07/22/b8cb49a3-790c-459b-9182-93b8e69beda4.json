@@ -1,0 +1,22 @@
+{
+    "round_id": "b8cb49a3-790c-459b-9182-93b8e69beda4",
+    "draw_title": "WIN A 2 NIGHT SPA BREAK AT STOBO CASTLE FOR TWO | \u00a3500 CASH ALT",
+    "competition_url": "https://borderscompetitions.co.uk/comp/win-a-2-night-spa-break-at-stobo-castle-for-two-500-cash-alt/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "5ffc95d18ad47e2f28d13e31be71e2966e2177ee37354a49c6bc9891ade21484",
+    "drand_seed_hash": "91284b084a6620ec18f68ad23af78bfb1b4b0429221e2906ee340ce07758781c1c31e320a1caaebad4ba8caa8bfce189",
+    "client_seed": "1784750106356",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 12000,
+    "max_tickets": 12000,
+    "combined_hash": "ccce466bd1ed036272fa280c7ef3850def0824840becee03c41bf9dfe2bcbf23",
+    "result": "6573",
+    "external_round_id": "30648916",
+    "processing_status": "completed",
+    "created_at": "2026-07-22T19:55:06.000000Z",
+    "revealed_at": "2026-07-22T19:55:14.000000Z"
+}
