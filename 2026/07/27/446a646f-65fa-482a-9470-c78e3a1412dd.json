@@ -1,0 +1,22 @@
+{
+    "round_id": "446a646f-65fa-482a-9470-c78e3a1412dd",
+    "draw_title": "WIN £5,000 CASH FOR 20P",
+    "competition_url": "https://borderscompetitions.co.uk/comp/win-5000-cash-for-20p/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "ba44169fada0d24bd435bf9cad7e54bf67cea84926845ddc3a4bf2d6b8d95a1d",
+    "drand_seed_hash": "80f2b13e670e604c577892e525b186ceaef3edf937a5f07385904955088068b5864293431f9a092b2d16cd612cb8d6c6",
+    "client_seed": "1785182621673",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 44724,
+    "max_tickets": 49999,
+    "combined_hash": "01e4060a5d0aef5e2a84c0087d412f518dc3c60f0a148ad398d5f6a36ad5a48b",
+    "result": "27110",
+    "external_round_id": "30793088",
+    "processing_status": "completed",
+    "created_at": "2026-07-27T20:03:41.000000Z",
+    "revealed_at": "2026-07-27T20:03:51.000000Z"
+}
