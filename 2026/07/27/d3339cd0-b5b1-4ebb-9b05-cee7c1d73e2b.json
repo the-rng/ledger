@@ -1,0 +1,22 @@
+{
+    "round_id": "d3339cd0-b5b1-4ebb-9b05-cee7c1d73e2b",
+    "draw_title": "£500 TICKET BUNDLE | £100,000 BORDERS CASH DRAW #1",
+    "competition_url": "https://borderscompetitions.co.uk/comp/500-ticket-bundle-100000-borders-cash-draw/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "4f3a550b45ab30546dc683f842f30317acd29f102668060c5a2651ee1c1e3dc2",
+    "drand_seed_hash": "906cf8ce6d4e160a7a010a5cbb48ef8ada1b6bb38e5728fc1457f411e1e531ea9660454088924467630dc0c25eb10aae",
+    "client_seed": "1785182444897",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 10000,
+    "max_tickets": 10000,
+    "combined_hash": "6283c33cb0ac26dac05c49c338777792c57c786c7f7f1bcc2c640c724a6ec39d",
+    "result": "6115",
+    "external_round_id": "30793029",
+    "processing_status": "completed",
+    "created_at": "2026-07-27T20:00:44.000000Z",
+    "revealed_at": "2026-07-27T20:00:54.000000Z"
+}
