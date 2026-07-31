@@ -1,0 +1,22 @@
+{
+    "round_id": "e242608f-797d-45d1-88a7-c30a5da6a2c3",
+    "draw_title": "ROCKET RUSH INSTANT WINS | £99,000+ IN PRIZES | NEW MINI GAME",
+    "competition_url": "https://borderscompetitions.co.uk/comp/rocket-rush-instants/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "6b19543c9edeec990b19b79515192f37ecf7d27041ba068955a277fd94968b66",
+    "drand_seed_hash": "a2e3c633630f292d097aa687986a7d660a596f76d4eface908675337904fb699488b8c455c0effe4d5fc6791dc82eae7",
+    "client_seed": "1785528385537",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 15382,
+    "max_tickets": 82914,
+    "combined_hash": "05982f408e5025d817c7027e68d198ba145c5ca24585d230ca174d399e71bc39",
+    "result": "56816",
+    "external_round_id": "30908343",
+    "processing_status": "completed",
+    "created_at": "2026-07-31T20:06:25.000000Z",
+    "revealed_at": "2026-07-31T20:06:35.000000Z"
+}
