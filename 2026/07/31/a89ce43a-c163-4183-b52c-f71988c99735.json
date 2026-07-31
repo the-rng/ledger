@@ -1,0 +1,22 @@
+{
+    "round_id": "a89ce43a-c163-4183-b52c-f71988c99735",
+    "draw_title": "THE BORDERS CASH DRAW | £100,000 TAX FREE CASH | +£20,000+ INSTANT WINS",
+    "competition_url": "https://borderscompetitions.co.uk/comp/the-borders-cash-draw/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "0b4ebfebce8e74f9384d7ad8cf40c051578b48702a657d4e3e2298775661ccb5",
+    "drand_seed_hash": "a9185dc25a4518b737033dd5eb8ee008d521722e763bb0e502a498da2cc611e1646f4aad720d17dea3999313646d43f4",
+    "client_seed": "1785528593224",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 1207731,
+    "max_tickets": 1500000,
+    "combined_hash": "305b75ee2a15089f7e31f9567c4942fd283a8f115741eed844ca3b2820f3a19f",
+    "result": "168465",
+    "external_round_id": "30908412",
+    "processing_status": "completed",
+    "created_at": "2026-07-31T20:09:53.000000Z",
+    "revealed_at": "2026-07-31T20:10:02.000000Z"
+}
