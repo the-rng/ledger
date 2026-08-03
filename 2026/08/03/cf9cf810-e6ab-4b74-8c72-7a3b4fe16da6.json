@@ -1,0 +1,22 @@
+{
+    "round_id": "cf9cf810-e6ab-4b74-8c72-7a3b4fe16da6",
+    "draw_title": "FISHING FRENZY | FRENZY SPINS | NEW MINI GAME | £50,000+ IN PRIZES | 15,000 INSTANT WINS",
+    "competition_url": "https://borderscompetitions.co.uk/comp/fishing-frenzy-frenzy-spins/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "8849c2ba56879b677cf5aa7922ff765e479a9208f3e2ff14e29ac1ed41962869",
+    "drand_seed_hash": "a14c60fb9eb0f189d54b78648bf973e3bf86807bb00ea4fa14d8e35004ddd1381875e0e85792170d18c70964031b3656",
+    "client_seed": "1785786978093",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 51255,
+    "max_tickets": 189122,
+    "combined_hash": "1f90097aba9cfdc9d79824d381c019e387f07f7aaead7fab27e429cc5811dcdb",
+    "result": "12300",
+    "external_round_id": "30994540",
+    "processing_status": "completed",
+    "created_at": "2026-08-03T19:56:18.000000Z",
+    "revealed_at": "2026-08-03T19:56:26.000000Z"
+}
