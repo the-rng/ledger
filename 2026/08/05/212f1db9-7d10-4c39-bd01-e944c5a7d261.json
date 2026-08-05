@@ -1,0 +1,22 @@
+{
+    "round_id": "212f1db9-7d10-4c39-bd01-e944c5a7d261",
+    "draw_title": "WIN A EUFY VIDEO DOORBELL E340 | £100 CASH ALT",
+    "competition_url": "https://borderscompetitions.co.uk/comp/win-a-eufy-video-doorbell-e340-100-cash-alt/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "b814038db610203cb7a1165f6b7848d641320bd5a2a269e2edc8cd56b10cfc1d",
+    "drand_seed_hash": "a32be8ed87f565af36d4b3d10fdbbd18988adb475749702b8e401ff5bf2f3298c0cbb878466b754510968e42df4a350a",
+    "client_seed": "1785959753476",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 3596,
+    "max_tickets": 7000,
+    "combined_hash": "6757ea3add26836fcf664620a21d5e27bb593da21eceba2074d085edeeb75449",
+    "result": "1328",
+    "external_round_id": "31052132",
+    "processing_status": "completed",
+    "created_at": "2026-08-05T19:55:53.000000Z",
+    "revealed_at": "2026-08-05T19:56:02.000000Z"
+}
