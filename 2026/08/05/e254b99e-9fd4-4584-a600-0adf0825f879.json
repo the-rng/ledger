@@ -1,0 +1,22 @@
+{
+    "round_id": "e254b99e-9fd4-4584-a600-0adf0825f879",
+    "draw_title": "CLAW CHAOS | CAN YOU GRAB £1,000? | 100X £1,000 INSTANT WINS | £1,000 END PRIZE",
+    "competition_url": "https://borderscompetitions.co.uk/comp/claw-chaos/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "c7767f4c81266f3dda6b7960a2b4487603781403d598eda493060cf677bddb24",
+    "drand_seed_hash": "a055489f43d386db5d71518297657d03e20d5910456654957fc8c1b0b52b74ddf7dbf579a6c8ccdb5c20b3d24d453341",
+    "client_seed": "1785959872255",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 126719,
+    "max_tickets": 800000,
+    "combined_hash": "74d920a4eefd82347fc0be69bf6da93b0b722dfdb5943ad7987a5923b7692f40",
+    "result": "16245",
+    "external_round_id": "31052172",
+    "processing_status": "completed",
+    "created_at": "2026-08-05T19:57:52.000000Z",
+    "revealed_at": "2026-08-05T19:58:02.000000Z"
+}
