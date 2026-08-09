@@ -1,0 +1,22 @@
+{
+    "round_id": "66028b13-6640-422a-8251-af9655443c36",
+    "draw_title": "WIN £15,000 TAX FREE | SUNDAY CASH DRAW",
+    "competition_url": "https://borderscompetitions.co.uk/comp/win-15000/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "39a1a77393e32e6fa9ec1f0d6d9e1825d3bae0927dde8c7ac3e0e006e9db7241",
+    "drand_seed_hash": "b9a9a684dc245fab0c2fc760ef04b518051154f8c31c6f1b030ae2bd2060c4cedd6134a8ab24b03987c1e7da5f66ceed",
+    "client_seed": "1786305497897",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 299999,
+    "max_tickets": 299999,
+    "combined_hash": "9402af3b037aecf4c0ae9e99d2970994ff4b6da65193da78a6a34c008a6bc9f0",
+    "result": "228542",
+    "external_round_id": "31167380",
+    "processing_status": "completed",
+    "created_at": "2026-08-09T19:58:17.000000Z",
+    "revealed_at": "2026-08-09T19:58:27.000000Z"
+}
