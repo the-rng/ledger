@@ -1,0 +1,22 @@
+{
+    "round_id": "155b4d4d-e3c8-46d3-9805-d614ece271fb",
+    "draw_title": "WIN £1,000 A MONTH FOR A WHOLE YEAR | CASH ALT £10,000",
+    "competition_url": "https://borderscompetitions.co.uk/comp/1000-a-month-for-a-whole-year/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "cad92e4b55f76101df81723ca73630c152cea1d2735ca7c0f787fc757c39c294",
+    "drand_seed_hash": "89401ff9f9a1e41ccc7ac5ef858efad20a4a2dd3d587ec83d4a709e928fd156d7b58c8b8f228a46e278cf1cff05f25bb",
+    "client_seed": "1786910384737",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 170365,
+    "max_tickets": 200000,
+    "combined_hash": "382a75dca4421161dacc135e4f730d2147cd238ee02460ac797b4a08e893a29d",
+    "result": "66041",
+    "external_round_id": "31369009",
+    "processing_status": "completed",
+    "created_at": "2026-08-16T19:59:44.000000Z",
+    "revealed_at": "2026-08-16T19:59:53.000000Z"
+}
