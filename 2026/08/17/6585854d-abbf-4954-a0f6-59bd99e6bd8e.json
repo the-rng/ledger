@@ -1,0 +1,22 @@
+{
+    "round_id": "6585854d-abbf-4954-a0f6-59bd99e6bd8e",
+    "draw_title": "WIN £20,000 CASH | LOSERS ONLY!",
+    "competition_url": "https://borderscompetitions.co.uk/comp/win-20000-cash-losers-only/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "5beec9bc35051795034b9eddb208d09d76e839182d205c2381dbc0e298046f75",
+    "drand_seed_hash": "b5094264ee1cb37accd7b2fe2946337ab24d4be706b6682f03c5a45500b8b5450fc89e4d695c3e8538c9eafa148243dd",
+    "client_seed": "1786996704156",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 240501,
+    "max_tickets": 266666,
+    "combined_hash": "517e36c7440f15665fc7ca81b4ecaee74d5ae532c2d1c6cb94663d3fa87c6e10",
+    "result": "112288",
+    "external_round_id": "31397782",
+    "processing_status": "completed",
+    "created_at": "2026-08-17T19:58:24.000000Z",
+    "revealed_at": "2026-08-17T19:58:32.000000Z"
+}
