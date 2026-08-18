@@ -1,0 +1,22 @@
+{
+    "round_id": "a89f9a1f-b385-4661-8d8d-a9d282050765",
+    "draw_title": "3X WINNERS | £5,000 CASH EACH!",
+    "competition_url": "https://borderscompetitions.co.uk/comp/3x-winners-5000-cash-each/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "0ce4a8286d10bb42ae9d243d162e262dea766726966b9a53c03c10d675e21ac2",
+    "drand_seed_hash": "95e3397f59d7a3bd2e038aad739c7e6c0495e92ba02abe5c1a359866c95cea8f6f345a6a7bfdd7e550ee6b02faa47ef4",
+    "client_seed": "1787083005295",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 34572,
+    "max_tickets": 37500,
+    "combined_hash": "44e54f145c36e092c4574cd12ff4b3ba0c2bd47ac1524e62af880ec05ac16028",
+    "result": "17857",
+    "external_round_id": "31426549",
+    "processing_status": "completed",
+    "created_at": "2026-08-18T19:56:45.000000Z",
+    "revealed_at": "2026-08-18T19:56:53.000000Z"
+}
