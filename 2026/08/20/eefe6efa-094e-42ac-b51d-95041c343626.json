@@ -1,0 +1,22 @@
+{
+    "round_id": "eefe6efa-094e-42ac-b51d-95041c343626",
+    "draw_title": "THE VAULT BREAKER | NEW GAME | £50,000+ IN CASH PRIZES | £5,000 END PRIZE!",
+    "competition_url": "https://borderscompetitions.co.uk/comp/the-vault-breaker/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "8e9658bb6450e08ade6060048e9c8bcf203502dff51b0a21e75f6a3cca91a2a0",
+    "drand_seed_hash": "b0ffab7dd2395a21c7f34248871d7f59009a542737bf8fd75b37c332cfce998597deb5823bee3f4d2bfefc65135ec534",
+    "client_seed": "1787255793197",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 478383,
+    "max_tickets": 999999,
+    "combined_hash": "64ef5d7a58bde55faddd1e34f12eb4b623714eed42f979cc5edd1a558fca97e4",
+    "result": "978537",
+    "external_round_id": "31484145",
+    "processing_status": "completed",
+    "created_at": "2026-08-20T19:56:33.000000Z",
+    "revealed_at": "2026-08-20T19:56:41.000000Z"
+}
