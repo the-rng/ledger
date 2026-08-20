@@ -1,0 +1,22 @@
+{
+    "round_id": "456a438b-75dc-402f-abac-73225f3255c1",
+    "draw_title": "THE £5,000 ULTIMATE FAMILY UPGRADE OR £5,000 CASH!",
+    "competition_url": "https://borderscompetitions.co.uk/comp/the-5000-ultimate-family-upgrade/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "795be5ab838710bca28b67332df37c1123c2426b3afaa9636b0bf5055b373934",
+    "drand_seed_hash": "991fc6d96be78387603cf7aa99b6f202fcc48c5ebde8011d695a6fc035a14fb96e4522535bacdd55e48e1eb1b136039c",
+    "client_seed": "1787255941316",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 75738,
+    "max_tickets": 142857,
+    "combined_hash": "4f118c97c7d7bf8946b2b137b467803a3549724d7246be583eb57b8febb28d0e",
+    "result": "113059",
+    "external_round_id": "31484195",
+    "processing_status": "completed",
+    "created_at": "2026-08-20T19:59:01.000000Z",
+    "revealed_at": "2026-08-20T19:59:11.000000Z"
+}
