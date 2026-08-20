@@ -1,0 +1,22 @@
+{
+    "round_id": "29268b04-90e5-4ad3-a722-29daee58a95e",
+    "draw_title": "£1,000 TICKET BUNDLE BALLOON BURST | BOOST YOUR CHANCES!",
+    "competition_url": "https://borderscompetitions.co.uk/comp/1000-ticket-bundle-balloon-burst-boost-your-chances/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "ca774beda27c0ce8eded4e5bcbd8516d89d26b645b8d2fb0c22e88eb0e35ddb5",
+    "drand_seed_hash": "93ef0e80cf2de3e8d568bbda6bd8b494a27f348bb76e21b68346869b729f2ec79e86bbfc2311c381058c212fd7b36a26",
+    "client_seed": "1787255695431",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 8522,
+    "max_tickets": 20000,
+    "combined_hash": "67fa31a73183d42dafc50eb303defbe0a7e7f65ed42eab970b0831ef3c3cd31a",
+    "result": "10440",
+    "external_round_id": "31484113",
+    "processing_status": "completed",
+    "created_at": "2026-08-20T19:54:55.000000Z",
+    "revealed_at": "2026-08-20T19:55:05.000000Z"
+}
