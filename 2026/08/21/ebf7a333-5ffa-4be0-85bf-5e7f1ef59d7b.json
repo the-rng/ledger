@@ -1,0 +1,22 @@
+{
+    "round_id": "ebf7a333-5ffa-4be0-85bf-5e7f1ef59d7b",
+    "draw_title": "BALLOON BURST | NEW GAME | £100,000+ IN PRIZES | £20,000 END PRIZE",
+    "competition_url": "https://borderscompetitions.co.uk/comp/balloon-burst-new/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "d08fb4b57e2d43acc4a07415ccc6f9f4b567d0fe124f3040679975fe56ee30c0",
+    "drand_seed_hash": "84004c6717f6084b887ed2f5e4f4a0fb3f8d529db91cd511795c89ca281aab79212e72071aa1f79199fe6d10147407f7",
+    "client_seed": "1787342491669",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 97863,
+    "max_tickets": 398976,
+    "combined_hash": "a9a8e12e1094e1f334c1f77cd1ac0593bf664da4cff292fb799989f98cb0e3ef",
+    "result": "159018",
+    "external_round_id": "31513045",
+    "processing_status": "completed",
+    "created_at": "2026-08-21T20:01:31.000000Z",
+    "revealed_at": "2026-08-21T20:01:41.000000Z"
+}
