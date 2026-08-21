@@ -1,0 +1,22 @@
+{
+    "round_id": "3d441e59-2121-4764-b736-4588964e8622",
+    "draw_title": "£1,000 TICKET BUNDLE £30,000 CASH | BOOST YOUR CHANCES!",
+    "competition_url": "https://borderscompetitions.co.uk/comp/1000-ticket-bundle-30000-cash-boost-your-chances/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "d92cb1c8115af9b3e9e828708f7c2991a5d0a08946677b1675334496b9850774",
+    "drand_seed_hash": "ab16d16e393aeaf686c15f023862272143ad8978f212091f2d9b6df0baf4c2a3c283a1bd6814c1dea088e1765e3f03f7",
+    "client_seed": "1787342233146",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 20000,
+    "max_tickets": 20000,
+    "combined_hash": "e2a4d1a56fa74bd154ae4480cad0e59a2250504479c67c695401deba456a62bc",
+    "result": "19875",
+    "external_round_id": "31512959",
+    "processing_status": "completed",
+    "created_at": "2026-08-21T19:57:13.000000Z",
+    "revealed_at": "2026-08-21T19:57:23.000000Z"
+}
