@@ -1,0 +1,22 @@
+{
+    "round_id": "442223cb-5ef6-4a44-95e8-f85a39442fee",
+    "draw_title": "WIN £30,000 TAX FREE CASH",
+    "competition_url": "https://borderscompetitions.co.uk/comp/win-30000-tax-free-cash/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "1b1f64fa3c77b80d0c8c07feb600d69a1b66968581e1cbcee7f9053a915f7f20",
+    "drand_seed_hash": "a5b9ca5bae4bd84cd8befe5259a0c8e6275cb044873ed24bf1e3eaf8423d68a5a391952305530d898d079f5b7db621d6",
+    "client_seed": "1787515312200",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 284281,
+    "max_tickets": 366000,
+    "combined_hash": "0ae538c87fdd270d9cc33c17c7a67e73f2b9e58044007fad8420e24d580884ca",
+    "result": "23851",
+    "external_round_id": "31570652",
+    "processing_status": "completed",
+    "created_at": "2026-08-23T20:01:52.000000Z",
+    "revealed_at": "2026-08-23T20:02:02.000000Z"
+}
