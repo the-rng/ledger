@@ -1,0 +1,22 @@
+{
+    "round_id": "dd3ff7eb-ba23-4130-9ce9-6ff0eea07361",
+    "draw_title": "WIN A £10,000 DREAM HOLIDAY | £10,000 CASH ALT",
+    "competition_url": "https://borderscompetitions.co.uk/comp/win-a-10000-dream-holiday/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "2edba59af4cd13737890eeb27edf64ddb88cbd86d8d76a838f01c1823c0975d2",
+    "drand_seed_hash": "a6c6707fd9c26e5e21ab01608b13fcc92bb014e4c436f9a41c7be3fd4fb35fd0a3b244f4538afd830674bf2829e85edd",
+    "client_seed": "1787515168901",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 195979,
+    "max_tickets": 285714,
+    "combined_hash": "8c5ce07eb8f626c52574172b45c951861e60f4711f3c2f8460818ea1f2a97d73",
+    "result": "63673",
+    "external_round_id": "31570604",
+    "processing_status": "completed",
+    "created_at": "2026-08-23T19:59:28.000000Z",
+    "revealed_at": "2026-08-23T19:59:39.000000Z"
+}
