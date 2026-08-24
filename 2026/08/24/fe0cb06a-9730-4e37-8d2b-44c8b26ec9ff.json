@@ -1,0 +1,22 @@
+{
+    "round_id": "fe0cb06a-9730-4e37-8d2b-44c8b26ec9ff",
+    "draw_title": "JACKS GOLDEN POND INSTANT WINS | FIND THE GOLDEN TENCH | £5,000 END PRIZE!",
+    "competition_url": "https://borderscompetitions.co.uk/comp/jacks-golden-pond/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "7a38949db831dc081a22b1f8033183a6d09426cb7058f39a2f8c302b93dbfd02",
+    "drand_seed_hash": "a1356205806ed132dfb38fc055adcf930433fb3b365c09eed6e8b62a1093c585e6587ab11738ea199fe90c1b2c25aeb1",
+    "client_seed": "1787601265112",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 123231,
+    "max_tickets": 420000,
+    "combined_hash": "ac28c5242adf2a48a9254f29ed34da4f8dbd0cd4acdcb17c3dadc08213ed30c7",
+    "result": "340781",
+    "external_round_id": "31599303",
+    "processing_status": "completed",
+    "created_at": "2026-08-24T19:54:25.000000Z",
+    "revealed_at": "2026-08-24T19:54:35.000000Z"
+}
