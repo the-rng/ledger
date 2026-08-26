@@ -1,0 +1,22 @@
+{
+    "round_id": "75a17058-f901-4330-b7ca-04f263d548af",
+    "draw_title": "test",
+    "competition_url": "",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "6d9f3770415c3e20979bce87fdd99a696897912a5f8b18a63e2ad6e769da8550",
+    "drand_seed_hash": "8d97e7d168ed7d60ad432614a2253cd4312ebf4dda1050563412d21559f0efc9cd35691893a484a1c9cf6a3f1e2a6c67",
+    "client_seed": "1787774089866",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 100,
+    "max_tickets": 100,
+    "combined_hash": "55780de34dd18020f2a87eab099959d9c57308cb7aab40439c4cf2e0c7cbe5b2",
+    "result": "6",
+    "external_round_id": "31656911",
+    "processing_status": "completed",
+    "created_at": "2026-08-26T19:54:49.000000Z",
+    "revealed_at": "2026-08-26T19:55:00.000000Z"
+}
