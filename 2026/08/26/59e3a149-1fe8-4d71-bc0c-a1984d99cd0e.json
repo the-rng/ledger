@@ -1,0 +1,22 @@
+{
+    "round_id": "59e3a149-1fe8-4d71-bc0c-a1984d99cd0e",
+    "draw_title": "HIGH ROLLERS | £5,000 CASH FLASH DRAW | ONLY 1,000 TICKETS",
+    "competition_url": "https://borderscompetitions.co.uk/comp/the-500-club-5000-cash-flash-draw/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "bb2377167326e36495c8e45cc14a8b3d3732e81fd70083d2c54776b870cd6121",
+    "drand_seed_hash": "b2273b51b638cf7bf3fcba23e56abb4e8d1d9faec6e2d8a252cd6a060602a417d9eb1a2e6e0f72eb1c0b5f9f98976a9f",
+    "client_seed": "1787774349434",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 681,
+    "max_tickets": 1000,
+    "combined_hash": "d42caf46af1f5e0e3b29d0065f7ff0af30a61099f3689c1b6c678528d431a7eb",
+    "result": "397",
+    "external_round_id": "31656997",
+    "processing_status": "completed",
+    "created_at": "2026-08-26T19:59:09.000000Z",
+    "revealed_at": "2026-08-26T19:59:17.000000Z"
+}
