@@ -1,0 +1,22 @@
+{
+    "round_id": "ef98be30-d71f-4093-84c8-05d88d8e3ada",
+    "draw_title": "WIN A 2025 VW TRANSPORTER CAMPER | £35,000 CASH ALTERNATIVE | +£50,000 INSTANT WINS | FREE UK DELIVERY",
+    "competition_url": "https://borderscompetitions.co.uk/comp/win-a-vw-transporter-t7/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "33fdc1f6110b67847bafb5b29691915d888ba20f81e59e080c01f12a39bd3c75",
+    "drand_seed_hash": "a8cab0d180a2a6becdfbb9b2a580c6373ca81ecafd27ec0667158784d88034406d9d631956bdf72de53332fd8c551bd0",
+    "client_seed": "1788120019141",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 150528,
+    "max_tickets": 361211,
+    "combined_hash": "13d3d1fc6b3fc9b1b89e5e0c30ca3154dbf90323b078f4492c6ab7cf8fa6cb7a",
+    "result": "269930",
+    "external_round_id": "31772221",
+    "processing_status": "completed",
+    "created_at": "2026-08-30T20:00:19.000000Z",
+    "revealed_at": "2026-08-30T20:00:29.000000Z"
+}
