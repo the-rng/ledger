@@ -1,0 +1,22 @@
+{
+    "round_id": "21bfa4b9-2338-4c36-8a88-79ae4245ab79",
+    "draw_title": "SCRATCH & WIN | REDESIGNED | 10,000 INSTANTS | £150,000+ IN PRIZES | £10,000 END PRIZE!",
+    "competition_url": "https://borderscompetitions.co.uk/comp/scratch-win-redesigned/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "7e928c68c2e2803cb06d9d2c93797a903e2a09fe4aa284ff909fe3924c951105",
+    "drand_seed_hash": "8e5a64e11f1dc83807f131aadc08d4d5f29444280839cce724c8dad25a6dc2ea6623fe22fc36f16086566ad1720aab69",
+    "client_seed": "1788206545059",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 162256,
+    "max_tickets": 930000,
+    "combined_hash": "b3ee605282c7bb90865e823e8ff7f30da1f16e1fa68644680f956ee957a89ae5",
+    "result": "104276",
+    "external_round_id": "31801063",
+    "processing_status": "completed",
+    "created_at": "2026-08-31T20:02:25.000000Z",
+    "revealed_at": "2026-08-31T20:02:35.000000Z"
+}
