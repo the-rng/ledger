@@ -1,0 +1,22 @@
+{
+    "round_id": "90a5c2f4-36c5-422b-ae81-e2cef8998251",
+    "draw_title": "WIN A HEXCLAD 13-PIECE HYBRID COOKWARE SET | £500 CASH ALT",
+    "competition_url": "https://borderscompetitions.co.uk/comp/win-a-hexclad-13-piece-hybrid-cookware-set-500-cash-alt/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "4ee7d8aa5747df0f7e4936e61e4b77c77e6bc934e072daa6340928c9620fb476",
+    "drand_seed_hash": "b7b603390ba0ee510445e28b5e63ef560c6e1592e6c18a0e69dfdb33fe44cfe071142c1385e908954660837e19523827",
+    "client_seed": "1788206219931",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 5850,
+    "max_tickets": 14980,
+    "combined_hash": "b303924702d0ad6abc09a0d2ab6571afb4e78c02b245fda83d3eb684ee1e2309",
+    "result": "14660",
+    "external_round_id": "31800954",
+    "processing_status": "completed",
+    "created_at": "2026-08-31T19:56:59.000000Z",
+    "revealed_at": "2026-08-31T19:57:08.000000Z"
+}
