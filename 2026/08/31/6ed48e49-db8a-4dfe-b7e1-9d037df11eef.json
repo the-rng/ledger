@@ -1,0 +1,22 @@
+{
+    "round_id": "6ed48e49-db8a-4dfe-b7e1-9d037df11eef",
+    "draw_title": "WIN AN ANKER PRIME 3-IN-1 WIRELESS CHARGER | £100 CASH ALT",
+    "competition_url": "https://borderscompetitions.co.uk/comp/win-an-anker-prime-3-in-1-wireless-charger-100-cash-alt/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "34bcc03c7239106754fa8507577c0c18e2bc8cb009938fdaa5d1cbff02ab9418",
+    "drand_seed_hash": "a3bc36687a4c54aa7c630f4b3ea945aaa76c3fb6a762f93d12a6b0321a17998fe6d3237a9e89bfa3b11c398a45ff2b03",
+    "client_seed": "1788206019539",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 1857,
+    "max_tickets": 4800,
+    "combined_hash": "e2e26b8efb69f378984751d4e6332319251fe429b5a1b66c19bb7e1887ce3b5f",
+    "result": "4707",
+    "external_round_id": "31800887",
+    "processing_status": "completed",
+    "created_at": "2026-08-31T19:53:39.000000Z",
+    "revealed_at": "2026-08-31T19:53:47.000000Z"
+}
