@@ -1,0 +1,22 @@
+{
+    "round_id": "8bc1ebac-6060-44a6-b6b5-2e5894225ebf",
+    "draw_title": "£50,000+ HOME UPGRADE INSTANT WINS | £1,000 END PRIZE",
+    "competition_url": "https://borderscompetitions.co.uk/comp/50000-home-upgrades/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "79cee03b2ba41d52519de1a6d28f67a327302e42414c0b10637158d5f7881a27",
+    "drand_seed_hash": "a0bab953402e6ecd240c1d159b50161f515aac47f496007ba94e2a684c6318075add254958ba4583d58c6b4c1a631714",
+    "client_seed": "1788206394090",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 170061,
+    "max_tickets": 733333,
+    "combined_hash": "19e06e58c7f820c50898bccc76c530704ee78b9898eabef14babdd716e011b29",
+    "result": "128679",
+    "external_round_id": "31801012",
+    "processing_status": "completed",
+    "created_at": "2026-08-31T19:59:54.000000Z",
+    "revealed_at": "2026-08-31T20:00:02.000000Z"
+}
