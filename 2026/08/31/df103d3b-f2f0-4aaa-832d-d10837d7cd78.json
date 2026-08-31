@@ -1,0 +1,22 @@
+{
+    "round_id": "df103d3b-f2f0-4aaa-832d-d10837d7cd78",
+    "draw_title": "WIN A £500 SUPERMARKET VOUCHER | £500 CASH ALT",
+    "competition_url": "https://borderscompetitions.co.uk/comp/win-a-500-supermarket-voucher-500-cash-alt/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "2273a4929dc2d720517fa1dddb1c89c4fff93ef58f6f31a546f18225ce4a48e7",
+    "drand_seed_hash": "a7f8146a6cfab5d5a567391fb16ec712e7c85afb802aff080da7ae64e48ae4769a24bb89bd50a56400c2d3bf404fa9d8",
+    "client_seed": "1788206106654",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 15347,
+    "max_tickets": 20000,
+    "combined_hash": "01d205ed2fe3c5c908456685c8be09596ac8190e952a90b2370a2cf6e34dfd0b",
+    "result": "1634",
+    "external_round_id": "31800916",
+    "processing_status": "completed",
+    "created_at": "2026-08-31T19:55:06.000000Z",
+    "revealed_at": "2026-08-31T19:55:15.000000Z"
+}
