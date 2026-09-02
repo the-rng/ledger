@@ -1,0 +1,22 @@
+{
+    "round_id": "7b94d4b1-3def-413f-b0c4-9ab687497177",
+    "draw_title": "PRIZE EVERY TIME RETURNS | BIG CASH INSTANT WINS | £60K+ IN PRIZES | £2,500 END PRIZE!",
+    "competition_url": "https://borderscompetitions.co.uk/comp/prize-every-time/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "fd8ceedb6f084f7c61fa96c5ab572c66e032bc23baf792963b4261f2acad944b",
+    "drand_seed_hash": "88f97533356947a9d33a5efc73d1c342282277e3f26cdf8ba50855f3e9ff8d1580d2ec90ba024ec538b4eff80c923425",
+    "client_seed": "1788379017378",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 7152,
+    "max_tickets": 15000,
+    "combined_hash": "230ec26c4f299d00ec24ba3346728789ebbaa2271cd78c46c8d4c754b82403e4",
+    "result": "11932",
+    "external_round_id": "31858553",
+    "processing_status": "completed",
+    "created_at": "2026-09-02T19:56:57.000000Z",
+    "revealed_at": "2026-09-02T19:57:05.000000Z"
+}
