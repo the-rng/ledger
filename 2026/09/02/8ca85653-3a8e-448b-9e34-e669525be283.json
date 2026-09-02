@@ -1,0 +1,22 @@
+{
+    "round_id": "8ca85653-3a8e-448b-9e34-e669525be283",
+    "draw_title": "£1,000 TICKET BUNDLE | MORTGAGE FREE FOR A YEAR DRAW OR £20K",
+    "competition_url": "https://borderscompetitions.co.uk/comp/1000-ticket-bundle-mortgage-free-for-a-year-draw-or-20k/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "2660ed594b0e80e12eb0590a6b17556e0815ba61add4d87dda46d1c19b39e301",
+    "drand_seed_hash": "ab454154adb8606151bd0bd69813d2df0b0290aa434d9f55757d1104bd4caebe38269e1e73ef6ba590856a055dbc9b6d",
+    "client_seed": "1788378785315",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 40000,
+    "max_tickets": 40000,
+    "combined_hash": "f4f3b9f19be35645c53d2a31b721f69c351637ad5fa7b878acb5603814966a57",
+    "result": "15669",
+    "external_round_id": "31858476",
+    "processing_status": "completed",
+    "created_at": "2026-09-02T19:53:05.000000Z",
+    "revealed_at": "2026-09-02T19:53:14.000000Z"
+}
