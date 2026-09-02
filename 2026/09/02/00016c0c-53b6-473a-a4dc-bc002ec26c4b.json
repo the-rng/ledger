@@ -1,0 +1,22 @@
+{
+    "round_id": "00016c0c-53b6-473a-a4dc-bc002ec26c4b",
+    "draw_title": "MID WEEK CASH | £10,000",
+    "competition_url": "https://borderscompetitions.co.uk/comp/mid-week-cash-10000-pound/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "8b29ebfc79832489e633ae6855e2b0bd5061c69e24ef146df7c64cc7da4f74d4",
+    "drand_seed_hash": "95789ee381d039ddb4d8f6ff20e227479f86e6393c92e5964efa10e69ec2d406c948df22726534a12091706e339d0232",
+    "client_seed": "1788379279995",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 143711,
+    "max_tickets": 166666,
+    "combined_hash": "6a5bb9044977b1d96db88b6cefa57af8ec7ad6e3736e9bb7997c76b58a213fb6",
+    "result": "90077",
+    "external_round_id": "31858641",
+    "processing_status": "completed",
+    "created_at": "2026-09-02T20:01:19.000000Z",
+    "revealed_at": "2026-09-02T20:01:29.000000Z"
+}
