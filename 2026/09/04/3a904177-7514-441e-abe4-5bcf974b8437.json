@@ -1,0 +1,22 @@
+{
+    "round_id": "3a904177-7514-441e-abe4-5bcf974b8437",
+    "draw_title": "MORTGAGE FREE FOR A YEAR | £20,000 CASH ALTERNATIVE",
+    "competition_url": "https://borderscompetitions.co.uk/comp/mortgage-covered-for-a-year/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "8769811ab912fcb1acad28a1defc65feb94bb2413941a19c1c9c762dc4a4f19a",
+    "drand_seed_hash": "937eb98bd4f6e4ba76a943c701c42a526d30f426ff2376a910219945f1f5cc8e663dac03eb85fabbc737f22295338c0e",
+    "client_seed": "1788552064457",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 267011,
+    "max_tickets": 416000,
+    "combined_hash": "7b8fbcd3aa02adf874f0fe462d769e294c4409f9dd3cb5f4e504c53138e431f5",
+    "result": "126076",
+    "external_round_id": "31916236",
+    "processing_status": "completed",
+    "created_at": "2026-09-04T20:01:04.000000Z",
+    "revealed_at": "2026-09-04T20:01:15.000000Z"
+}
