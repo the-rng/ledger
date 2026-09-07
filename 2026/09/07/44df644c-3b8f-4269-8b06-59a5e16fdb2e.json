@@ -1,0 +1,22 @@
+{
+    "round_id": "44df644c-3b8f-4269-8b06-59a5e16fdb2e",
+    "draw_title": "WIN £7,777 CASH FOR 7P",
+    "competition_url": "https://borderscompetitions.co.uk/comp/win-7777-cash-for-7p/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "ed5bdb1263fb663a4eb7406e387a3cd3f85e6c016a61920a8066037b4187142f",
+    "drand_seed_hash": "b9276427fd5c2de0f7dc9e31e9daea7275413504bc369ff7488c19af7cd893867c20f727f402b76a8e5c97b6a9293706",
+    "client_seed": "1788811126750",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 166057,
+    "max_tickets": 214285,
+    "combined_hash": "e60df5e9508ae3d7a46487a945341b9b54177b2aa2ffc91e70f96971693b957f",
+    "result": "92862",
+    "external_round_id": "32002590",
+    "processing_status": "completed",
+    "created_at": "2026-09-07T19:58:46.000000Z",
+    "revealed_at": "2026-09-07T19:58:56.000000Z"
+}
