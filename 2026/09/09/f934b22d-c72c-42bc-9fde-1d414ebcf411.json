@@ -1,0 +1,22 @@
+{
+    "round_id": "f934b22d-c72c-42bc-9fde-1d414ebcf411",
+    "draw_title": "£1,000 TICKET BUNDLE | LAND ROVER DEFENDER 110",
+    "competition_url": "https://borderscompetitions.co.uk/comp/1000-ticket-bundle-land-rover-defender-110/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "8c54d0a29a8f05aa6e2b0f95193cde7247de49217795fbe0f0a6653702b280cc",
+    "drand_seed_hash": "9552d0f42caf69bb23bff8a158389c95674436a42e31b9aacdb603a64f318402dc1d6c9362ca2e6d0b0f1732b24a4976",
+    "client_seed": "1788983831113",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 10533,
+    "max_tickets": 20000,
+    "combined_hash": "ee71d2bfe3a073c7a1e07f64fec1932e0be1d93423315c5169cee8944085fa1c",
+    "result": "19983",
+    "external_round_id": "32060158",
+    "processing_status": "completed",
+    "created_at": "2026-09-09T19:57:11.000000Z",
+    "revealed_at": "2026-09-09T19:57:20.000000Z"
+}
