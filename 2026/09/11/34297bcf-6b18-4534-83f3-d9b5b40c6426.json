@@ -1,0 +1,22 @@
+{
+    "round_id": "34297bcf-6b18-4534-83f3-d9b5b40c6426",
+    "draw_title": "FISHING FRENZY | MEGA ODDS | LOW TICKETS | £10,000+ IN PRIZES!",
+    "competition_url": "https://borderscompetitions.co.uk/comp/fishing-frenzy-mega-odds-low-tickets-10000-in-prizes/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "976e21bcb2c1bdca36215df0c3abbb5caad777e710f150562e312eec465912b7",
+    "drand_seed_hash": "8272ce1ba6d4fc70aa911417662f6d8dfb07153105704be72266513e2d8ff37baefdaa440239d776b645870e42f18809",
+    "client_seed": "1789157441173",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 260000,
+    "max_tickets": 260000,
+    "combined_hash": "0e3d24dd2cf8f8834652a78f5494c78547b1dd4cb2c72c0772c2a213f5cdbe0b",
+    "result": "199663",
+    "external_round_id": "32118028",
+    "processing_status": "completed",
+    "created_at": "2026-09-11T20:10:41.000000Z",
+    "revealed_at": "2026-09-11T20:10:50.000000Z"
+}
