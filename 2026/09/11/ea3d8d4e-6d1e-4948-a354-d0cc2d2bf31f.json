@@ -1,0 +1,22 @@
+{
+    "round_id": "ea3d8d4e-6d1e-4948-a354-d0cc2d2bf31f",
+    "draw_title": "WIN £50,000 TAX FREE CASH FOR JUST 5P | GUARANTEED DRAW",
+    "competition_url": "https://borderscompetitions.co.uk/comp/win-50000-cash/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "49a4e1266155749226953abf907d1252138db9480ff92b69e0f0b30175a3150a",
+    "drand_seed_hash": "b0cdac1177e663a7eed27270f42f481148f3a89210af72b46b610caee37c9e3eb4f7bda500ae44228ce7bb28ad65ad4e",
+    "client_seed": "1789157623682",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 1722372,
+    "max_tickets": 1899999,
+    "combined_hash": "b01c889a574081f121cbc7aa74c7a671d2bc82bab2476d50610e1ba987c581a8",
+    "result": "1012869",
+    "external_round_id": "32118089",
+    "processing_status": "completed",
+    "created_at": "2026-09-11T20:13:43.000000Z",
+    "revealed_at": "2026-09-11T20:13:53.000000Z"
+}
