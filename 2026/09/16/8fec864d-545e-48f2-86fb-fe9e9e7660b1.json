@@ -1,0 +1,25 @@
+{
+    "round_id": "8fec864d-545e-48f2-86fb-fe9e9e7660b1",
+    "draw_title": "THE CLAW GRABBER | MEGA WINS | £100,000+ IN CASH ONLY PRIZES! | £2,500 END PRIZE!",
+    "competition_url": "https://borderscompetitions.co.uk/comp/the-claw-grabber-mega-wins-100000-in-cash-only-prizes-2500-end-prize/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "598f3af67dc72bdbafd6f1432af8e9279e4176fa3508a93a3d6c1ceb015cffc6",
+    "drand_seed_hash": "800c33487b89cc0f80f42f1b07a7192c7ded2d619b0038e8d78ce650553e22bda0ca36be7b08282517d43709163cbe50",
+    "client_seed": "1789592647510",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 128582,
+    "max_tickets": 128582,
+    "combined_hash": "ea3320fddf5d1b8a2ff1f023b6cfcc3fa511d68c810568e4f126acae298fcd06",
+    "result": "259148",
+    "external_round_id": "32263097",
+    "processing_status": "completed",
+    "created_at": "2026-09-16T21:04:07.000000Z",
+    "revealed_at": "2026-09-16T21:04:28.000000Z",
+    "ticket_range_max": 487804,
+    "entry_hash": "de3de45e8037191bf9c6531420f62b62cafe23f87642ad77980037c035246c29",
+    "result_indexes": "68377"
+}
