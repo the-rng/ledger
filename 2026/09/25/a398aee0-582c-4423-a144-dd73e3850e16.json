@@ -1,0 +1,22 @@
+{
+    "round_id": "a398aee0-582c-4423-a144-dd73e3850e16",
+    "draw_title": "£25,000 CASH FOR 25P",
+    "competition_url": "",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "34088cfb08e00f54cec2eb2774fe18269955a9766bf0f8879d1c8915708cfc2c",
+    "drand_seed_hash": "a8f810bbfaa993de0564f599d9a1ad5fc7ae19ace60ddf04047f7d3d9e466e2baae3013d80c74e4e6719a026d47211e7",
+    "client_seed": "1790366623592",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 150488,
+    "max_tickets": 240000,
+    "combined_hash": "d008488f8a890caaa1d4eeb305b7efb58256aa23e70e0357c996416062b31140",
+    "result": "22737",
+    "external_round_id": "32521089",
+    "processing_status": "completed",
+    "created_at": "2026-09-25T20:03:43.000000Z",
+    "revealed_at": "2026-09-25T20:03:53.000000Z"
+}
