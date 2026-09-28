@@ -1,0 +1,22 @@
+{
+    "round_id": "608bc3db-87d0-4d98-9d6e-539ec8772d34",
+    "draw_title": "FREYA'S PICKS | £15,000+ IN PRIZES | £1,000 END PRIZE",
+    "competition_url": "https://borderscompetitions.co.uk/comp/freyas-picks/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "cde7a6b353ba0a4d5a310336d2338389b0f38cd2efde223d75d887c52cdcba33",
+    "drand_seed_hash": "ae87daaff03e79b3f6e9aa682b537b319fc27161d0604f5c1b41f421c082d3b521c5c5e87b217ddd0b1296f00e2243f3",
+    "client_seed": "1790625314478",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 46074,
+    "max_tickets": 150000,
+    "combined_hash": "c24281848191098504b9b243fe47da5b319c3cbb33f90110fbe4a16bbe8150bb",
+    "result": "63747",
+    "external_round_id": "32607319",
+    "processing_status": "completed",
+    "created_at": "2026-09-28T19:55:14.000000Z",
+    "revealed_at": "2026-09-28T19:55:23.000000Z"
+}
