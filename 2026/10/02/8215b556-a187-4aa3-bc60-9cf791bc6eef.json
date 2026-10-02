@@ -1,0 +1,22 @@
+{
+    "round_id": "8215b556-a187-4aa3-bc60-9cf791bc6eef",
+    "draw_title": "WIN A LAND ROVER DEFENDER 110 V8 + £2,000 CASH | £50,000 CASH ALTERNATIVE | 300 CASH INSTANTS | STAR PRIZE!",
+    "competition_url": "https://borderscompetitions.co.uk/comp/win-a-land-rover-defender-110/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "c7face9953c97296637a9bc4f2e2e33bccf5d658c95cd6433948a6a61d6cdf52",
+    "drand_seed_hash": "a1335932aee4e6b885b5fac6334747ad38ce21b0ffaa591a72d40d2b40b0c2bca34a81258b773ff92b70518f801c1b43",
+    "client_seed": "1790971276113",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 49564,
+    "max_tickets": 78312,
+    "combined_hash": "c0df8cf95d5bb48d6ce3a7384a3b774f4268629195c04f91fd3b3f38371d6278",
+    "result": "42961",
+    "external_round_id": "32722640",
+    "processing_status": "completed",
+    "created_at": "2026-10-02T20:01:16.000000Z",
+    "revealed_at": "2026-10-02T20:01:26.000000Z"
+}
