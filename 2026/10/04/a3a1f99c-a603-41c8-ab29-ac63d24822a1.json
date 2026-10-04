@@ -1,0 +1,22 @@
+{
+    "round_id": "a3a1f99c-a603-41c8-ab29-ac63d24822a1",
+    "draw_title": "SUNDAY £10,000 CASH!",
+    "competition_url": "https://borderscompetitions.co.uk/comp/sunday-10000-cash/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "dfd6e12efd9325c9178771c064a68f0696db5728f721287b1046c00b6f9cbb72",
+    "drand_seed_hash": "a3f48e42f5250842b7d1e0d7e4dbd7ea93492fc8744156da422cc221a099e0098b1008be18367ab5a496e3eda541e54b",
+    "client_seed": "1791143725662",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 146745,
+    "max_tickets": 166666,
+    "combined_hash": "7c7609a71ffb8541f54a939a08ca9494bccb2a92b046d71ddd14d9453814aace",
+    "result": "93105",
+    "external_round_id": "32780123",
+    "processing_status": "completed",
+    "created_at": "2026-10-04T19:55:25.000000Z",
+    "revealed_at": "2026-10-04T19:55:35.000000Z"
+}
