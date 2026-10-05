@@ -1,0 +1,22 @@
+{
+    "round_id": "e34fc924-89ca-48b3-b10f-2628a6ce7d59",
+    "draw_title": "JACK’S PICKS | £15,000+ IN PRIZES | £1,000 END PRIZE",
+    "competition_url": "https://borderscompetitions.co.uk/comp/jacks-picks/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "5ab4bea55fba11406097c26b4264015756d5e334389d6ab18ef13bd0e9558099",
+    "drand_seed_hash": "8b14b9aea072aba88ad33778abb86199ac8b5324e43355dda3c40b6a2ae3f2d9e2c6eb25a74b327fdec19df70f7ca9a0",
+    "client_seed": "1791231087031",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 1867,
+    "max_tickets": 6000,
+    "combined_hash": "1366931ec9babb20aee4fdb343e81159e580dbb71608adca20237b03bdbd4ea0",
+    "result": "404",
+    "external_round_id": "32809243",
+    "processing_status": "completed",
+    "created_at": "2026-10-05T20:11:27.000000Z",
+    "revealed_at": "2026-10-05T20:11:35.000000Z"
+}
