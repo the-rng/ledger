@@ -1,0 +1,22 @@
+{
+    "round_id": "4f10c480-542e-4dff-9f24-4b580eacd626",
+    "draw_title": "ASTRID & MIYU GOLD ADVENT CALENDAR",
+    "competition_url": "https://borderscompetitions.co.uk/comp/win-a-24-day-astrid-miyu-advent-calendar-in-gold-550-cash-alt/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "6b767af51cf594a47c556cb9d6b515e6ea18cae35e3f297c0b1bc21a7e0ddc92",
+    "drand_seed_hash": "80b416c65a35164ec83b86fedddc29b14396c9cfbcce384de048f1e7c5ac2517bcb1f85c16c6c25b9dd4f68c1f4fe47c",
+    "client_seed": "1791230677365",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 10702,
+    "max_tickets": 31800,
+    "combined_hash": "6cfec74e199a0cfb160ac192559f9ebcebe62240f4c5ff5e814f89a78d6b3b06",
+    "result": "26245",
+    "external_round_id": "32809107",
+    "processing_status": "completed",
+    "created_at": "2026-10-05T20:04:37.000000Z",
+    "revealed_at": "2026-10-05T20:04:47.000000Z"
+}
