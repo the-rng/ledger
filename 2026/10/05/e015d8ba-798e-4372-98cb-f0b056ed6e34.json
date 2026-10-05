@@ -1,0 +1,22 @@
+{
+    "round_id": "e015d8ba-798e-4372-98cb-f0b056ed6e34",
+    "draw_title": "£5,000 CASH | LOSERS ONLY",
+    "competition_url": "https://borderscompetitions.co.uk/comp/5000-cash-losers-only/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "dfc0481cfdd990c6e433d6f042dabe4ce0911c65d95954b595c54388cbf48498",
+    "drand_seed_hash": "8dd44f1d81e86ce00e444a89fcfcdabdeea61b129ac0e6cf19dc2cc3a059f2c2cd48abef1f0772c6fef1c81bc8446247",
+    "client_seed": "1791231592333",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 134461,
+    "max_tickets": 142857,
+    "combined_hash": "7be89a8b339d66b9066bdf121de80a3eebd4e1311022bac07c35d357c5c95e76",
+    "result": "44569",
+    "external_round_id": "32809412",
+    "processing_status": "completed",
+    "created_at": "2026-10-05T20:19:52.000000Z",
+    "revealed_at": "2026-10-05T20:20:02.000000Z"
+}
