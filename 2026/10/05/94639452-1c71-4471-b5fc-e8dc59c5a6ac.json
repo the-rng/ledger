@@ -1,0 +1,22 @@
+{
+    "round_id": "94639452-1c71-4471-b5fc-e8dc59c5a6ac",
+    "draw_title": "10X £5,000 CASH INSTANT WINS | £5,000 END PRIZE!",
+    "competition_url": "https://borderscompetitions.co.uk/comp/10x-5000-cash-instant-wins-5000-end-prize/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "1f831ca5bffacfcd4e9bdd96a7b5b0a625c1a3fab93cb279e032fca649e2a085",
+    "drand_seed_hash": "b2537a9d01c53020f613f9519ac3acaa34f9cfc2b886e2dc196b1b8e608b45edb7aca1b27c67b29195d3f0cf69bde7d8",
+    "client_seed": "1791231223548",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 56274,
+    "max_tickets": 224490,
+    "combined_hash": "6d8266d00aa0c7e231526dcedab4d951b7f58d220145736f0064c8f51ff108b0",
+    "result": "171730",
+    "external_round_id": "32809289",
+    "processing_status": "completed",
+    "created_at": "2026-10-05T20:13:43.000000Z",
+    "revealed_at": "2026-10-05T20:13:53.000000Z"
+}
