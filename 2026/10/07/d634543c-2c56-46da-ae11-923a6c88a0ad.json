@@ -1,0 +1,25 @@
+{
+    "round_id": "d634543c-2c56-46da-ae11-923a6c88a0ad",
+    "draw_title": "THE ADVENT CALENDAR SPIN TO WIN 2026 | WIN PREMIUM ADVENTS INSTANTLY | RELAUNCH",
+    "competition_url": "https://borderscompetitions.co.uk/comp/the-advent-calendar-spin-to-win-2026-win-premium-advents-instantly-relaunch/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "2cac783c7acdc603993abbcc3e9bdf9ae2e45a0b46d839aa210ac6334d69215a",
+    "drand_seed_hash": "85837e85a7a72662c38687347e80fe758325ce539f5c8e35272c77f002fd669a4a73827d5a4e06006c23681a04993ac5",
+    "client_seed": "1791403430197",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 141206,
+    "max_tickets": 141206,
+    "combined_hash": "e417082a8a76223b408cbad289e25f2e59ac00d626a9ef1b08a826a44e6f0e15",
+    "result": "202346",
+    "external_round_id": "32866691",
+    "processing_status": "completed",
+    "created_at": "2026-10-07T20:03:50.000000Z",
+    "revealed_at": "2026-10-07T20:04:14.000000Z",
+    "ticket_range_max": 216666,
+    "entry_hash": "c993459659a150b0728a2003ac04a301f2e73cb7c393dd5a1ec7b0deacb5fbdf",
+    "result_indexes": "131919"
+}
