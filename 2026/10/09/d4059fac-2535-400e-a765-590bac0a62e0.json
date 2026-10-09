@@ -1,0 +1,22 @@
+{
+    "round_id": "d4059fac-2535-400e-a765-590bac0a62e0",
+    "draw_title": "£500 FOR FREE | MEMBERS ONLY",
+    "competition_url": "https://borderscompetitions.co.uk/comp/500-cash-for-free-0p-to-enter/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "5e543d961be8876bacb50bc1b18e6733da3ba24eddbc5c6524465e6f5666c902",
+    "drand_seed_hash": "a42bb11a007e10c2be1de9fea1d75b17414b03d6f7ead3536d60ed1b47d7ea65af0566fcc04d1b94e611da697c8bf50c",
+    "client_seed": "1791580617885",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 230,
+    "max_tickets": 500,
+    "combined_hash": "f449db5ebf7ae550badcbf80c7dccd5a9457f32248dfa4a7cc70dc64c7f8b89f",
+    "result": "121",
+    "external_round_id": "32925754",
+    "processing_status": "completed",
+    "created_at": "2026-10-09T21:16:57.000000Z",
+    "revealed_at": "2026-10-09T21:17:14.000000Z"
+}
