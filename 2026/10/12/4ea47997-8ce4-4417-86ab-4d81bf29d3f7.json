@@ -1,0 +1,22 @@
+{
+    "round_id": "4ea47997-8ce4-4417-86ab-4d81bf29d3f7",
+    "draw_title": "BRAND NEW IPHONE DUO 1TB | £2,000 CASH ALTERNATIVE",
+    "competition_url": "https://borderscompetitions.co.uk/comp/brand-new-iphone-duo-1tb-2000-cash-alternative/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "0a3bb56509b36428c8df94351e1f08bbdedf2614fbb0a441513e6f97654ea33a",
+    "drand_seed_hash": "ab0f29107c9a41147d4025dcb41d7da05020e56b3e569b4d57207fa6c5d5c01723411df15667a657d17f5ce7ca3d5153",
+    "client_seed": "1791835138642",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 38588,
+    "max_tickets": 83333,
+    "combined_hash": "1a003a6968ef31cc5bb21972b06be0ca23676cb29525d5c748b661ea00cb6788",
+    "result": "82523",
+    "external_round_id": "33010594",
+    "processing_status": "completed",
+    "created_at": "2026-10-12T19:58:58.000000Z",
+    "revealed_at": "2026-10-12T19:59:08.000000Z"
+}
