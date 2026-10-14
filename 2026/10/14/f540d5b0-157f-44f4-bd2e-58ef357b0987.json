@@ -1,0 +1,22 @@
+{
+    "round_id": "f540d5b0-157f-44f4-bd2e-58ef357b0987",
+    "draw_title": "WIN AN OMEGA SPEEDMASTER MOONWATCH PROFESSIONAL | £4,500 CASH ALT",
+    "competition_url": "https://borderscompetitions.co.uk/comp/win-an-omega-speedmaster-moonwatch-professional-4500-cash-alt/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "6cc38bde9a99071928d011b808e1000b4be54e97dcf8c4bafb374e606527b8c0",
+    "drand_seed_hash": "83562b07b39cb9397115577134ff7afd8ab7aefddf8d7a1774b8143b64ef31ecb7490183364b16ecef4cc6e92771b796",
+    "client_seed": "1792007868273",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 104253,
+    "max_tickets": 200000,
+    "combined_hash": "ffcd9d11a95da3f3263af1877f53ff8f1dfd3bdaf87a9eb51e7e4a7519772364",
+    "result": "154560",
+    "external_round_id": "33068170",
+    "processing_status": "completed",
+    "created_at": "2026-10-14T19:57:48.000000Z",
+    "revealed_at": "2026-10-14T19:57:56.000000Z"
+}
