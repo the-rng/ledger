@@ -1,0 +1,22 @@
+{
+    "round_id": "11068aa4-597a-49ac-a291-cf4cb30e261b",
+    "draw_title": "MIDNIGHT CASH | £10,000",
+    "competition_url": "https://borderscompetitions.co.uk/comp/midnight-cash-10000/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "c2b5578dc8cbce9d783156decf894f7238fd1ed3e8db29bb716c81208c68afee",
+    "drand_seed_hash": "b29a1f02e26ed260675c149637f2c174daf6ad38302234f422bb1225249d943e48da3dfdefaa46c607494573dec8f1a4",
+    "client_seed": "1792191532901",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 414545,
+    "max_tickets": 500000,
+    "combined_hash": "6f86146fd2c10b386524137c25fc42b0daa97d9d174336587a3c5b50d95834de",
+    "result": "116112",
+    "external_round_id": "33129392",
+    "processing_status": "completed",
+    "created_at": "2026-10-16T22:58:52.000000Z",
+    "revealed_at": "2026-10-16T22:59:03.000000Z"
+}
