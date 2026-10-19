@@ -1,0 +1,22 @@
+{
+    "round_id": "440d6015-7d6f-47e5-ba78-96576ec49ecb",
+    "draw_title": "FRUIT CHOP | NEW INSTANT WIN GAME | £50,000+ IN CASH PRIZES!",
+    "competition_url": "https://borderscompetitions.co.uk/comp/fruit-chop-new/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "73d8d7ca463c62ce808cad114ea299f2b9b1c6bb6424295c079d2172c05ea27d",
+    "drand_seed_hash": "961d1e41b87583413e36a295986624606d6ff681ee1fbb203b5c60124be01884ea800b8f381c4ff2277c0ae637caedb0",
+    "client_seed": "1792439677636",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 290223,
+    "max_tickets": 999999,
+    "combined_hash": "a27c8a6b7db94ab5e85a1b88cc8262fcec95f1188be988183b2ffd66c1cbfe63",
+    "result": "239791",
+    "external_round_id": "33212107",
+    "processing_status": "completed",
+    "created_at": "2026-10-19T19:54:37.000000Z",
+    "revealed_at": "2026-10-19T19:54:47.000000Z"
+}
