@@ -1,0 +1,20 @@
+{
+    "record_id": "dkcLWmRQEm5LZm",
+    "record_type": "instant-win-audit-reveal",
+    "draw_title": "PET TESTING",
+    "competition_url": "https://staging.borderscompetitions.co.uk/comp/pet-testing/",
+    "operator": {
+        "name": "The-RNG",
+        "website": "https://the-rng.com",
+        "company_number": "SC1111111"
+    },
+    "site": "staging.borderscompetitions.co.uk",
+    "product_id": 699551,
+    "text": "bc-audit-reveal 1\nseal a6fd3ead1355943946425118731894203b90acc85b7e080f49b77dddd74fe5e8\nkey f6631f28aeff8ec9293a9a34a3de20800bec2baf802a4f4cb4a3f06e3f34b4f7\nissued 1050\nlines 2 d5c435393a3962b1d353b5781c7a3fff7c3304431b4d96fcd954e02d3c58f86c\nwins 1050 062a710626f151fb71d108bf3a8c732368a83fbb40bc6dfcfbcd011745d03265\nchain 0 0000000000000000000000000000000000000000000000000000000000000000\nrevealed 2026-10-21T09:41:35Z\n",
+    "text_sha256": "1bb732f280ea481da6e5cc89c13aef90d8cdbd4e43a7c6883683e7ed3981e3ea",
+    "seal_record": "71NBq3ixsZ2wnS",
+    "key_matches_seal": true,
+    "received_at": "2026-10-21T09:45:27.000000Z",
+    "prev_hash": "d3255b8c98891a2f188cf19e38a615056cd7e95eb5331ceadaf23ffe80404dfb",
+    "record_hash": "d9e4df12ec13d54ba5eba1060999aae526c43493016e65f8c9928444b490918b"
+}
