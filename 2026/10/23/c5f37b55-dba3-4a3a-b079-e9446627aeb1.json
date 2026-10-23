@@ -1,0 +1,22 @@
+{
+    "round_id": "c5f37b55-dba3-4a3a-b079-e9446627aeb1",
+    "draw_title": "£500 MYSTERY PRIZE",
+    "competition_url": "https://borderscompetitions.co.uk/comp/500-mystery-prize/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "e557cb8f6f91f4c0803e3ac8a3eba4a0f47254cc5ec04f72b470a1390084ca70",
+    "drand_seed_hash": "85a91235f3b883d9f6d449bd73adedb7f4484a36b96be7a5b7d642a318c3b573b440903dd666d4610ef693f9dddce3a4",
+    "client_seed": "1792785787719",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 20000,
+    "max_tickets": 20000,
+    "combined_hash": "c059d16db1c9323ce65b3e025b2afc918bbabc6378060347cdb437496b07c504",
+    "result": "16545",
+    "external_round_id": "33327477",
+    "processing_status": "completed",
+    "created_at": "2026-10-23T20:03:07.000000Z",
+    "revealed_at": "2026-10-23T20:03:17.000000Z"
+}
