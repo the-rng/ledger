@@ -1,0 +1,22 @@
+{
+    "round_id": "c4783269-5c85-4b5e-bfda-146fc6df36a3",
+    "draw_title": "THE COINFLIP RETURNS | 25,000 PRIZES | £57,000+ IN PRIZES | 50/50 CHANCE",
+    "competition_url": "https://borderscompetitions.co.uk/comp/the-coinflip/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "80f2f3fbe4e2b35c11e5541103d6aa5df15593c1a5e7bbb30cb87eb6b6f245b7",
+    "drand_seed_hash": "8b59b99aad92fd9c68f108d543cb19362d4ad4198ea70b3fc57a936ae8ee1197d4194e18c8bcd4a2224887e06780bb7c",
+    "client_seed": "1792786014663",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 9709,
+    "max_tickets": 50000,
+    "combined_hash": "4716d7b2aa0315d01f5a0bc0845c0560bb1806f42122225e8fd2d500c2c2799f",
+    "result": "40392",
+    "external_round_id": "33327552",
+    "processing_status": "completed",
+    "created_at": "2026-10-23T20:06:54.000000Z",
+    "revealed_at": "2026-10-23T20:07:02.000000Z"
+}
