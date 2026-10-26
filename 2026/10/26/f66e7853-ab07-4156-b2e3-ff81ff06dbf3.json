@@ -1,0 +1,22 @@
+{
+    "round_id": "f66e7853-ab07-4156-b2e3-ff81ff06dbf3",
+    "draw_title": "WIN A FORD FOCUS ST-LINE X EDITION OR £10,000 CASH!",
+    "competition_url": "https://borderscompetitions.co.uk/comp/win-a-ford-focus-st-line-x-edition/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "89afbe04ed1bdffed48e4735263e2dc7aac411fc6d281e48380bb7c639733f0d",
+    "drand_seed_hash": "aba2e11e06c50b0a9df1416daed1f1307dd56bc5893e21f5bd02574372536f3098af445173aaf1eb75a6223f27873f31",
+    "client_seed": "1793048498899",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 302554,
+    "max_tickets": 487465,
+    "combined_hash": "3d5676bb87d493595839d5abec7c9773ee7c8959c6f50e91b377b865ec3766a4",
+    "result": "458003",
+    "external_round_id": "33415047",
+    "processing_status": "completed",
+    "created_at": "2026-10-26T21:01:38.000000Z",
+    "revealed_at": "2026-10-26T21:01:48.000000Z"
+}
