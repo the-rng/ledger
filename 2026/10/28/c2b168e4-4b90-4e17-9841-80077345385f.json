@@ -1,0 +1,22 @@
+{
+    "round_id": "c2b168e4-4b90-4e17-9841-80077345385f",
+    "draw_title": "FIVE WINNERS OF £500 CASH | MEMBERS ONLY",
+    "competition_url": "https://borderscompetitions.co.uk/comp/five-winners-of-500-cash-members-only/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "023cefa80ea6470320e1b856ca73dd50efe1e86d27b655bc8e054b4454fc721f",
+    "drand_seed_hash": "b6aba312e7f8c077cb30f130fcc42a777942452a8a31db48b5f6ab71ed4e5f53792dc2f8e6f330bed3d53a5022083936",
+    "client_seed": "1793220999759",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 27338,
+    "max_tickets": 71428,
+    "combined_hash": "6c2497e32f6d887d62d400deab6056fb5396e2d3707918e41ec012605a00962b",
+    "result": "6697",
+    "external_round_id": "33472547",
+    "processing_status": "completed",
+    "created_at": "2026-10-28T20:56:39.000000Z",
+    "revealed_at": "2026-10-28T20:56:47.000000Z"
+}
