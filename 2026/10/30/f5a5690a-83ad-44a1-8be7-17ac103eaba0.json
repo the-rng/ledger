@@ -1,0 +1,22 @@
+{
+    "round_id": "f5a5690a-83ad-44a1-8be7-17ac103eaba0",
+    "draw_title": "SPRINT TO WIN | £10,000+ OF SPORTS INSTANT WINS | £500 END PRIZE",
+    "competition_url": "https://borderscompetitions.co.uk/comp/10000-running-instant-wins/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "bb0eb94642e9b313e0fce5a38e6f695815e3a92883989837d3eee1e0e5e3d8e0",
+    "drand_seed_hash": "a1fde865dd01f2460d1b3ec09e28774805896b146c528c25b822c78e6d604638af45a8bfdd9ac65db555fc642123dcb8",
+    "client_seed": "1793394290494",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 245247,
+    "max_tickets": 400000,
+    "combined_hash": "5faf4488434e9eed1a56b9687dfcbb41ea981fc0f4d1028b5dab2dc1f779139b",
+    "result": "202720",
+    "external_round_id": "33530311",
+    "processing_status": "completed",
+    "created_at": "2026-10-30T21:04:50.000000Z",
+    "revealed_at": "2026-10-30T21:04:59.000000Z"
+}
