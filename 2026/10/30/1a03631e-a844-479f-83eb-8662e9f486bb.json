@@ -1,0 +1,22 @@
+{
+    "round_id": "1a03631e-a844-479f-83eb-8662e9f486bb",
+    "draw_title": "WIN £250,000 TAX FREE CASH | GUARANTEED DRAW | +£100,000 CASH INSTANT WINS | STAR PRIZE",
+    "competition_url": "https://borderscompetitions.co.uk/comp/250000-our-biggest-ever-draw/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "2e873ed56df5d5c9b364bc4fc32c9f1b1f5492e0cde914e79e289ed875523dd6",
+    "drand_seed_hash": "8f43dbf7130e40dcb4f8c445c089f3d7ef25ebb152d0f97628ab55f3532d0084abad564364956ba43220111c6e6ff1c6",
+    "client_seed": "1793394429329",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 204720,
+    "max_tickets": 642354,
+    "combined_hash": "57b1217f4243a03afea8b049ee6b7a8a6fa9796557f1075ea63d33732a1eceba",
+    "result": "299240",
+    "external_round_id": "33530357",
+    "processing_status": "completed",
+    "created_at": "2026-10-30T21:07:09.000000Z",
+    "revealed_at": "2026-10-30T21:07:18.000000Z"
+}
