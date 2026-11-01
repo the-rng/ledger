@@ -1,0 +1,18 @@
+{
+    "record_id": "8vjqJSZ88ayheg",
+    "record_type": "instant-win-audit-seal",
+    "draw_title": "PET ATOMIC NEW TEST",
+    "competition_url": "https://staging.borderscompetitions.co.uk/comp/pet-atomic-new-test/",
+    "operator": {
+        "name": "The-RNG",
+        "website": "https://the-rng.com",
+        "company_number": "SC1111111"
+    },
+    "site": "staging.borderscompetitions.co.uk",
+    "product_id": 699559,
+    "text": "bc-audit-seal 1\nsite staging.borderscompetitions.co.uk\nproduct 699559\npool 8\ncapacity 21500\nprizes 21500 5af823c3ad8679dd9bcb22fc1614b0cb0d6232ea2ceaba08bc7bae1b9c555688\nkey 09079105205766a50bc95caba0f80289cd11cc0ee17c50cc656fdc5409dbb32b\nsealed 2026-11-01T16:07:26Z\n",
+    "text_sha256": "3c415f9a26109fa0da8cb2dad6f20d237f17ccfe0474ebd351ab69f4fd28ba39",
+    "received_at": "2026-11-01T16:11:54.000000Z",
+    "prev_hash": "d9e4df12ec13d54ba5eba1060999aae526c43493016e65f8c9928444b490918b",
+    "record_hash": "3eb2f3c2bb097521221c9e973948a836792416a2e29ea864e5e94560bf5bf39a"
+}
