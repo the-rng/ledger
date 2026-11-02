@@ -1,0 +1,22 @@
+{
+    "round_id": "fd09d49c-f01d-49d2-b915-6e71e7ea0ed8",
+    "draw_title": "WIN A NINJA AUTOBARISTA PRO | £650 CASH ALT",
+    "competition_url": "https://borderscompetitions.co.uk/comp/win-a-ninja-autobarista-pro-650-cash-alt/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "e919a1858bab980351ae8d1560834588838e41a2c57fb721ab5b0f72a015ead8",
+    "drand_seed_hash": "98c030bd76fc4679a20edc030f3bebed4e1d5ef37696de6a839142958b96dfe1636b7a21398075f6970630e9c83b6e8c",
+    "client_seed": "1793653122901",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 30321,
+    "max_tickets": 38000,
+    "combined_hash": "46578df96d03ce3c32406f79028b4ccc26eb3d072fba5d924976ded8a36aadd9",
+    "result": "25703",
+    "external_round_id": "33616588",
+    "processing_status": "completed",
+    "created_at": "2026-11-02T20:58:42.000000Z",
+    "revealed_at": "2026-11-02T20:58:51.000000Z"
+}
