@@ -1,0 +1,18 @@
+{
+    "record_id": "xNAKy578QGs9y3",
+    "record_type": "instant-win-audit-seal",
+    "draw_title": "WIN THE NEW SHARK CRYO GLOW FACE &#038; BODY LED SYSTEM | £450 CASH ALT",
+    "competition_url": "https://borderscompetitions.co.uk/comp/win-the-new-shark-cryo-glow-face-body-led-system-450-cash-alt/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "site": "borderscompetitions.co.uk",
+    "product_id": 3671109,
+    "text": "bc-audit-seal 1\nsite borderscompetitions.co.uk\nproduct 3671109\npool 3\ncapacity 30000\nprizes 0 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\nkey bba946ffe57c21f5c470b28ac58171ea96de2289df4fc24305b0bd119dd6747d\nsealed 2026-11-02T16:56:39Z\n",
+    "text_sha256": "92d7f4e6e113665c9da24666d4fabd11a322b42383b9ea369f58948cd37c8f47",
+    "received_at": "2026-11-02T16:56:50.000000Z",
+    "prev_hash": "96a09d51b2194bf33650bdefca7a5e62085a8d5559fd9351f2adff19f4470871",
+    "record_hash": "455e3994beaf4cc09a8e2535ba4aa1929c6a6cde343a481055182d40ff2388aa"
+}
