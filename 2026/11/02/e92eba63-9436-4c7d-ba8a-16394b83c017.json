@@ -1,0 +1,22 @@
+{
+    "round_id": "e92eba63-9436-4c7d-ba8a-16394b83c017",
+    "draw_title": "WIN A PLAYSTATION 5 PRO + GTA 6 PRE-ORDER BUNDLE",
+    "competition_url": "https://borderscompetitions.co.uk/comp/win-a-playstation-5-pro-gta-6-pre-order-bundle/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "fbd1294be2a59659bd13bec48d56486435b23c2b382f3bb949c624e4c752dd98",
+    "drand_seed_hash": "8277aec5e6bb3dba398df01638058481551c6bd16e757fa8c5f090efe93aa29328afe7da4f025a2d5110bda2b361e282",
+    "client_seed": "1793653234184",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 33104,
+    "max_tickets": 51111,
+    "combined_hash": "4eaca7a0025ea3590b3d236135b6f130118c874dfae4c6ee93de6c509eaece4f",
+    "result": "4598",
+    "external_round_id": "33616626",
+    "processing_status": "completed",
+    "created_at": "2026-11-02T21:00:34.000000Z",
+    "revealed_at": "2026-11-02T21:00:44.000000Z"
+}
