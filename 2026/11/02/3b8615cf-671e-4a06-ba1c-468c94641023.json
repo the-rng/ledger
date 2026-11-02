@@ -1,0 +1,22 @@
+{
+    "round_id": "3b8615cf-671e-4a06-ba1c-468c94641023",
+    "draw_title": "£500 TICKET BUNDLE OF YOUR CHOICE",
+    "competition_url": "https://borderscompetitions.co.uk/comp/500-ticket-bundle-of-your-choice/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "252cf471acf187aa535bb47ab87a1ac9d50c7f6323d5226959a5c113e8a4389b",
+    "drand_seed_hash": "b9bbddd3d775c31854a3ac29d907d07f9d2550235f7a7bf551b9fc57c8942e7d2c3a586fdc5e068c8beb7bb3af576c70",
+    "client_seed": "1793653025258",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 15165,
+    "max_tickets": 34000,
+    "combined_hash": "340f1c98e9fd8872bcf07add347c2b9effab244f81098bc1ee727905e293e587",
+    "result": "3733",
+    "external_round_id": "33616556",
+    "processing_status": "completed",
+    "created_at": "2026-11-02T20:57:05.000000Z",
+    "revealed_at": "2026-11-02T20:57:14.000000Z"
+}
