@@ -1,0 +1,18 @@
+{
+    "record_id": "UjMLsS3fynMPKP",
+    "record_type": "instant-win-audit-seal",
+    "draw_title": "FLASH CASH | £10,000 FOR 1P",
+    "competition_url": "https://borderscompetitions.co.uk/comp/flash-cash-10000-for-1p/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "site": "borderscompetitions.co.uk",
+    "product_id": 3672891,
+    "text": "bc-audit-seal 1\nsite borderscompetitions.co.uk\nproduct 3672891\npool 6\ncapacity 1599999\nprizes 0 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\nkey f0de76d27b20256dd3db93dad5f90dfbb46e2052446f3a65f5a4ba0413921f48\nsealed 2026-11-03T11:52:45Z\n",
+    "text_sha256": "db033bb3435d0d84803539420f4ea1228414f287386c5f79199d79c3c995cd70",
+    "received_at": "2026-11-03T11:52:49.000000Z",
+    "prev_hash": "be662264ec6206125cf0248f6dbfbd17d177ffa75d3ac3eb00f1020c6595a886",
+    "record_hash": "ef277090ce1a8a13e2c233e235de41202ad14395bb8d5bb5a4804dc204d3d1b2"
+}
