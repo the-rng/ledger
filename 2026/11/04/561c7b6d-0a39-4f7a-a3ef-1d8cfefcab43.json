@@ -1,0 +1,22 @@
+{
+    "round_id": "561c7b6d-0a39-4f7a-a3ef-1d8cfefcab43",
+    "draw_title": "PRIZE EVERY TIME | NINJA EDITION | £71,000+ IN PRIZES | £2,000 END PRIZE!",
+    "competition_url": "https://borderscompetitions.co.uk/comp/prize-every-time-ninja-edition-71000-in-prizes-2000-end-prize/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "ec8345b6c92792f887b994a21b63f2aa636ec19aa6c2e1e887289ffd5a95529f",
+    "drand_seed_hash": "8af8cef57c50be668c6c3a99c139ca977c06e9de7ec3cddfd2419a5ba94311230e4b8ae292157427be8c5848b65b35de",
+    "client_seed": "1793825830960",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 8519,
+    "max_tickets": 21500,
+    "combined_hash": "81d1c82353cba3ddeefe50dbb70287ac229bd784e1d400ce8103c57aaca56479",
+    "result": "18894",
+    "external_round_id": "33674158",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T20:57:10.000000Z",
+    "revealed_at": "2026-11-04T20:57:20.000000Z"
+}
