@@ -1,0 +1,20 @@
+{
+    "record_id": "XPomFERqfnr1FH",
+    "record_type": "instant-win-audit-reveal",
+    "draw_title": "£100 CASH FOR 1P",
+    "competition_url": "https://borderscompetitions.co.uk/comp/100-cash-for-1p/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "site": "borderscompetitions.co.uk",
+    "product_id": 3671095,
+    "text": "bc-audit-reveal 1\nseal 30183ff8791db70acb599750131d698fab632e7ba9b4a2d4b04bb90d3d2cb330\nkey f7708c7dd90a9aad61374d29f06e00a4ee5d8f04112da4b01a6d1317e8d59a7c\nissued 15000\nlines 87 09610cbf7e4e3b889f6e466c48bc90b4436d5e4336ccf3b9da1e63b732a3873c\nwins 4 898ea57995877ef53514b1e4897e3f53b1515895403619f2b164689ef3b9d324\nchain 0 0000000000000000000000000000000000000000000000000000000000000000\nstaff 0 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\nrevealed 2026-11-04T20:00:05Z\n",
+    "text_sha256": "95ad8c88412887a3b311ba1da102b7c3dbe065e3b4fa753abd339cd1a08566c3",
+    "seal_record": "UxXrd14fCMSvEA",
+    "key_matches_seal": true,
+    "received_at": "2026-11-04T20:00:49.000000Z",
+    "prev_hash": "74077f68b4f64255076a3f7cc9afb84ddf047da32e53453e28258737353e25d5",
+    "record_hash": "21813d8841d17935dae3f8d2188803ec7c42e56ffd5e390cf991ae5d4a6805b6"
+}
