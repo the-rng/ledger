@@ -1,0 +1,18 @@
+{
+    "record_id": "pnThpSE2DreqCz",
+    "record_type": "instant-win-audit-seal",
+    "draw_title": "THURSDAY CASH | £8,888",
+    "competition_url": "https://borderscompetitions.co.uk/comp/thursday-cash-8888/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "site": "borderscompetitions.co.uk",
+    "product_id": 3674302,
+    "text": "bc-audit-seal 1\nsite borderscompetitions.co.uk\nproduct 3674302\npool 9\ncapacity 400000\nprizes 0 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\nkey f8c8198b33cdc31bb40e8f4c23fdbc61eddd465a49d7b7510a871becf9dfb768\nsealed 2026-11-04T19:48:26Z\n",
+    "text_sha256": "d256bf6ab5f84bd2fd8ee9d521d4a5be55c0c3954a2c456896b0d19d455f5094",
+    "received_at": "2026-11-04T19:48:50.000000Z",
+    "prev_hash": "5f07dca9aa117b76a1986404c42c42a198fc6d032f6d31f661e7c5e1db99b1c7",
+    "record_hash": "74077f68b4f64255076a3f7cc9afb84ddf047da32e53453e28258737353e25d5"
+}
