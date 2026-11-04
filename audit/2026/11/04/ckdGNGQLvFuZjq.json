@@ -1,0 +1,18 @@
+{
+    "record_id": "ckdGNGQLvFuZjq",
+    "record_type": "instant-win-audit-seal",
+    "draw_title": "PRIZE EVERY TIME | BONFIRE SPECIAL",
+    "competition_url": "https://borderscompetitions.co.uk/comp/prize-every-time-bonfire-special/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "site": "borderscompetitions.co.uk",
+    "product_id": 3674299,
+    "text": "bc-audit-seal 1\nsite borderscompetitions.co.uk\nproduct 3674299\npool 8\ncapacity 3000\nprizes 3000 8d72f2377d371d94b57e1c874dedbed25db7905adbdd9e73024554df51da8cbd\nkey 027652c225e1a69175ae60de50bde2d12d3dadb2435c0f37efb3a4ebb348632a\nsealed 2026-11-04T18:27:59Z\n",
+    "text_sha256": "6c377f409b06208f49ea263e7290efbd70b3b41ca36a301bf7fedf60c135f33e",
+    "received_at": "2026-11-04T18:28:50.000000Z",
+    "prev_hash": "c2f9337358ac92488e6110755aacce46a1b5b5fe3506d2e2d78e197b04610c03",
+    "record_hash": "5f07dca9aa117b76a1986404c42c42a198fc6d032f6d31f661e7c5e1db99b1c7"
+}
