@@ -1,0 +1,22 @@
+{
+    "round_id": "14c78163-a51d-404c-86bf-862933bfa117",
+    "draw_title": "£500 TICKET BUNDLE | 2X MERCEDES BUNDLE | BOOST YOUR CHANCES!",
+    "competition_url": "https://borderscompetitions.co.uk/comp/500-ticket-bundle-2x-mercedes-bundle-boost-your-chances/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "40146695d3714a831d200838f1b7203ba2a6855931185eaab85a33a957bb1650",
+    "drand_seed_hash": "b2a29540bb645bdc1596976e6c22ab197e11b25c635412d57472cd89c330da63d73c0f468dbd3b19d991828696bde5e2",
+    "client_seed": "1793998949378",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 33200,
+    "max_tickets": 40000,
+    "combined_hash": "5b0a7c25ebf1584935033c30e2f46a6d4add32105011296377b55690c6231b7a",
+    "result": "6108",
+    "external_round_id": "33731864",
+    "processing_status": "completed",
+    "created_at": "2026-11-06T21:02:29.000000Z",
+    "revealed_at": "2026-11-06T21:02:38.000000Z"
+}
