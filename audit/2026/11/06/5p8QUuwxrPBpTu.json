@@ -1,0 +1,18 @@
+{
+    "record_id": "5p8QUuwxrPBpTu",
+    "record_type": "instant-win-audit-seal",
+    "draw_title": "ATOMIC INSTANT WINS | £250,000+ IN PRIZES | £50,000 END PRIZE | LOWEST INSTANT = £1,000!",
+    "competition_url": "https://borderscompetitions.co.uk/comp/atomic-instant-wins/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "site": "borderscompetitions.co.uk",
+    "product_id": 3677310,
+    "text": "bc-audit-seal 1\nsite borderscompetitions.co.uk\nproduct 3677310\npool 10\ncapacity 5000000\nprizes 150 9792d8a8c2bc807bc899c0f2514dba34a88440cb4c543fa425ee779d37aded36\nkey f87f00c2169ca07dd8051754b2b400c110ff2be321746f26c56dd53910e15cd9\nsealed 2026-11-06T16:23:27Z\n",
+    "text_sha256": "8f7ed96d89c14cca75c993b84ac4d9d356a7774e3705faf2c223214369e1ead5",
+    "received_at": "2026-11-06T16:23:50.000000Z",
+    "prev_hash": "21813d8841d17935dae3f8d2188803ec7c42e56ffd5e390cf991ae5d4a6805b6",
+    "record_hash": "a7eef8092fa20fc9b4dc268cfc15d06680ea0188364cc5e65319fa8a39c32eb7"
+}
