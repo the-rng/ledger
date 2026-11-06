@@ -1,0 +1,22 @@
+{
+    "round_id": "beb30fb3-ef64-4db5-80f7-8f0ae40f72f0",
+    "draw_title": "FLASH CASH | £10,000 FOR 1P",
+    "competition_url": "https://borderscompetitions.co.uk/comp/flash-cash-10000-for-1p/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "282e99fa0ada31147b80459f79116e81e11dd55a885c1cec265c380141a2e951",
+    "drand_seed_hash": "908fb7c47c0d8e37890ad71b76b30b78589d9a937bed74e24c53a1abce7768d25e1a62a137d0564023e6d40de658ffa3",
+    "client_seed": "1793999202569",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 1599999,
+    "max_tickets": 1599999,
+    "combined_hash": "524a8dac7866312e4cb0fc7d4fbb2542ff71d5ecc3b9194dfb752afaddecaadd",
+    "result": "542564",
+    "external_round_id": "33731948",
+    "processing_status": "completed",
+    "created_at": "2026-11-06T21:06:42.000000Z",
+    "revealed_at": "2026-11-06T21:06:50.000000Z"
+}
