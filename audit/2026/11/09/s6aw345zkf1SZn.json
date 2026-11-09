@@ -1,0 +1,20 @@
+{
+    "record_id": "s6aw345zkf1SZn",
+    "record_type": "instant-win-audit-reveal",
+    "draw_title": "PENNY FALLS | INSTANT WINS | NEW GAME | £50000+ IN PRIZES | £5000 END PRIZE",
+    "competition_url": "https://borderscompetitions.co.uk/comp/penny-falls-instant-wins/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "site": "borderscompetitions.co.uk",
+    "product_id": 3671339,
+    "text": "bc-audit-reveal 1\nseal 693b827383d82a761e7d7a3d00440d4dda63ea39e78daec7e05ec137af07a1af\nkey d67092d9ec16576acf0081f80f8c3ba6b1b154a359f4080a8fbd46cf113da8bb\nissued 233189\nlines 3842 4e69ed65c843e0e36e2050a16bee65e9fe35e2ea04902e5a49923cd731c234b3\nwins 228 0bfc9add9236ca656c466b1c6a9de3ceff37235efb5a367a905c98591db2124a\nchain 0 0000000000000000000000000000000000000000000000000000000000000000\nstaff 0 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\nrevealed 2026-11-09T20:45:09Z\n",
+    "text_sha256": "91d443698e09b42561caacc6952b079a0039050ec990bfbf97494e3206e6dfde",
+    "seal_record": "pL96vtYaLikksY",
+    "key_matches_seal": true,
+    "received_at": "2026-11-09T20:45:49.000000Z",
+    "prev_hash": "56d16b8c80c1d8fe508c8c499dda190eba206dfafe3cc8348f63bbbed5b695c8",
+    "record_hash": "8daaf24698a00cf0abd90258722b17da2895c9571e25458439b80c1396629822"
+}
