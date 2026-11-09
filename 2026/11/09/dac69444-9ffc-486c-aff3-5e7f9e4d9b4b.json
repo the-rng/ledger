@@ -1,0 +1,22 @@
+{
+    "round_id": "dac69444-9ffc-486c-aff3-5e7f9e4d9b4b",
+    "draw_title": "PENNY FALLS | INSTANT WINS | NEW GAME | £50000+ IN PRIZES | £5000 END PRIZE",
+    "competition_url": "https://borderscompetitions.co.uk/comp/penny-falls-instant-wins/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "88c08c219ff73e3aee1b101737fc80b6b05339dd390391ad0631546079390af7",
+    "drand_seed_hash": "89e23755ca4c72f255ef25a05f839a3797930cf48fad805bdc5f6b282de3bbea2f3a41e8712075d126b3f177a255add4",
+    "client_seed": "1794258584870",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 233189,
+    "max_tickets": 909090,
+    "combined_hash": "96744e7f056f3f61f3dbbb5c9bd2edf09ccf5657aef0af6c39dbf8729ec1394a",
+    "result": "395677",
+    "external_round_id": "33818409",
+    "processing_status": "completed",
+    "created_at": "2026-11-09T21:09:44.000000Z",
+    "revealed_at": "2026-11-09T21:09:53.000000Z"
+}
