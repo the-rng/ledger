@@ -1,0 +1,18 @@
+{
+    "record_id": "yrz6ADDgdWFKDM",
+    "record_type": "instant-win-audit-seal",
+    "draw_title": "WIN THE P.LOUISE WHAT GLOWS AROUND 2026 ADVENT CALENDAR",
+    "competition_url": "https://borderscompetitions.co.uk/comp/win-the-p-louise-what-glows-around-2026-advent-calendar/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "site": "borderscompetitions.co.uk",
+    "product_id": 3682665,
+    "text": "bc-audit-seal 1\nsite borderscompetitions.co.uk\nproduct 3682665\npool 11\ncapacity 12000\nprizes 0 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\nkey be81d540d90a77787be245679002df060a4d8764c58a5c9ebd5dd6a4323a7ac1\nsealed 2026-11-09T13:26:04Z\n",
+    "text_sha256": "52a9a76cc2fda1e7721ab07fed17f8067694253470a3c6e7cf449ba395d7246a",
+    "received_at": "2026-11-09T13:26:49.000000Z",
+    "prev_hash": "b00fc8359f8b6bc9ed1a11c4ce4fc3625669210ca0b14658d0576610491c658a",
+    "record_hash": "95b443511060ca8680867317d5906c08be7d8bf9da951872728297cedc2e6de0"
+}
