@@ -1,0 +1,22 @@
+{
+    "round_id": "e312f42b-c88b-4bd1-8388-82ae24e61aeb",
+    "draw_title": "WIN THE NEW SHARK CRYO GLOW FACE & BODY LED SYSTEM | £450 CASH ALT",
+    "competition_url": "https://borderscompetitions.co.uk/comp/win-the-new-shark-cryo-glow-face-body-led-system-450-cash-alt/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "c689fb51544828a85faf36841f4fbf3b4456430ea0304f1035a5f84b9d3bc94f",
+    "drand_seed_hash": "877aafa711811e359b4aedf47480dac9f0e9fb95d434557d95899fd1f53feb79ea8a2b509d6014e2b6c4dc6579561f7e",
+    "client_seed": "1794258129793",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 13106,
+    "max_tickets": 30000,
+    "combined_hash": "ac201b2fbb31abd6f0237c19219de94cb4e6d589d2ebabf980606471ac97ad04",
+    "result": "16989",
+    "external_round_id": "33818257",
+    "processing_status": "completed",
+    "created_at": "2026-11-09T21:02:09.000000Z",
+    "revealed_at": "2026-11-09T21:02:17.000000Z"
+}
