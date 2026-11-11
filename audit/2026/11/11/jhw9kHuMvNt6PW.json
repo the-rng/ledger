@@ -1,0 +1,18 @@
+{
+    "record_id": "jhw9kHuMvNt6PW",
+    "record_type": "instant-win-audit-seal",
+    "draw_title": "BALLOON BURST BONUS GAME | 5,000 INSTANTS | BONUS GAME | £100K+ IN PRIZES | £10,000 END PRIZE",
+    "competition_url": "https://borderscompetitions.co.uk/comp/balloon-burst-bonus/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "site": "borderscompetitions.co.uk",
+    "product_id": 3685876,
+    "text": "bc-audit-seal 1\nsite borderscompetitions.co.uk\nproduct 3685876\npool 20\ncapacity 4000000\nprizes 5000 51ed7a523ef917e92b3962c15dd3981e04b51e0454b1de4d3c312f8b34ad6d3a\nkey 9077a2fe3ebc7d610b15c0fea9ac604f714ffd8f49db3bb842e14a562877ee93\nsealed 2026-11-11T23:14:49Z\n",
+    "text_sha256": "0393d50afa226dd5e28a880fcb00aa897ab1f34433a822eaed8089325a67189d",
+    "received_at": "2026-11-11T23:15:03.000000Z",
+    "prev_hash": "de2ef6ac3829b86154225f279f9ef3ed7475e7227365e2aee0de33d62128d284",
+    "record_hash": "2e983adbf01945b6ec4be2c613097fe226802df69206b3adbecccf978239a5e9"
+}
