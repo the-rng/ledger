@@ -1,0 +1,20 @@
+{
+    "record_id": "FQeBsDsfQeXuMf",
+    "record_type": "instant-win-audit-reveal",
+    "draw_title": "PRIZE EVERY TIME | BONFIRE SPECIAL",
+    "competition_url": "https://borderscompetitions.co.uk/comp/prize-every-time-bonfire-special/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "site": "borderscompetitions.co.uk",
+    "product_id": 3674299,
+    "text": "bc-audit-reveal 1\nseal 6c377f409b06208f49ea263e7290efbd70b3b41ca36a301bf7fedf60c135f33e\nkey 68e05d034b2f56fcf4ccf9f0a2b536698fcec5a75a82e187fa276da4743cc6df\nissued 3000\nlines 1042 4c4e7593e2b9ef99ef72a5a30fb5c1b10c662badda66627f5ef3878a2cd3d709\nwins 3000 23dc0a404632fb3edc69640ac5d2206db8fa3b4c7c5e503ddaf563504c1b543d\nchain 0 0000000000000000000000000000000000000000000000000000000000000000\nstaff 0 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\nrevealed 2026-11-12T20:00:01Z\n",
+    "text_sha256": "22605b5eaebfa18eafbbafa836fe5f4e74cfebd0810186cf7e917e6d8bf36056",
+    "seal_record": "ckdGNGQLvFuZjq",
+    "key_matches_seal": true,
+    "received_at": "2026-11-12T20:00:02.000000Z",
+    "prev_hash": "2e983adbf01945b6ec4be2c613097fe226802df69206b3adbecccf978239a5e9",
+    "record_hash": "4ba784e23b49b2df2888f1d2b294a44567ad0d3890f1bd5e3ca5a9392553eb92"
+}
