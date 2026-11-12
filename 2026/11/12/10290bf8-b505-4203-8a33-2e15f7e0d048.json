@@ -1,0 +1,22 @@
+{
+    "round_id": "10290bf8-b505-4203-8a33-2e15f7e0d048",
+    "draw_title": "THURSDAY CASH | £8,888",
+    "competition_url": "https://borderscompetitions.co.uk/comp/thursday-cash-8888/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "480fe260707d2c23cdec6d80955e267ba202fe3de212e0236361eafd09e952a2",
+    "drand_seed_hash": "a341c6cbd22b8a3f9abdec0bdd9fb385e30fc1fc1bfe811e1dacd7d8dc29b0750f76599de1e3a8025b6439184177f297",
+    "client_seed": "1794517016119",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 331665,
+    "max_tickets": 400000,
+    "combined_hash": "33abb392293ffd4629b57a80528beb4fc202c3b58167ca39aa99ccde57138530",
+    "result": "48308",
+    "external_round_id": "33904553",
+    "processing_status": "completed",
+    "created_at": "2026-11-12T20:56:56.000000Z",
+    "revealed_at": "2026-11-12T20:57:05.000000Z"
+}
