@@ -1,0 +1,20 @@
+{
+    "record_id": "jjUHq54w2zYPbk",
+    "record_type": "instant-win-audit-reveal",
+    "draw_title": "THURSDAY CASH | £8,888",
+    "competition_url": "https://borderscompetitions.co.uk/comp/thursday-cash-8888/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "site": "borderscompetitions.co.uk",
+    "product_id": 3674302,
+    "text": "bc-audit-reveal 1\nseal d256bf6ab5f84bd2fd8ee9d521d4a5be55c0c3954a2c456896b0d19d455f5094\nkey 8db9e79e8792f2b6b63d159ff50cdc80fa54f1d1114af0a58ff8ac8549112cf1\nissued 331665\nlines 3611 ed0fe88016c9255ebd8f4407b451d66f866f24f3bda5c80ed5506a60e3402a49\nwins 0 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\nchain 0 0000000000000000000000000000000000000000000000000000000000000000\nstaff 0 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\nrevealed 2026-11-12T20:45:11Z\n",
+    "text_sha256": "38029ab5894d5e8ad7a4a84d1a8a2ceae276bcf19004c453683d62842156087c",
+    "seal_record": "pnThpSE2DreqCz",
+    "key_matches_seal": true,
+    "received_at": "2026-11-12T20:45:50.000000Z",
+    "prev_hash": "4ba784e23b49b2df2888f1d2b294a44567ad0d3890f1bd5e3ca5a9392553eb92",
+    "record_hash": "cde82f0caee6338d26fac4e54101325e363051c8fcea46facdfafb60f4032ead"
+}
