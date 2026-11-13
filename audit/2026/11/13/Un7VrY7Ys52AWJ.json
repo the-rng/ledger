@@ -1,0 +1,18 @@
+{
+    "record_id": "Un7VrY7Ys52AWJ",
+    "record_type": "instant-win-audit-seal",
+    "draw_title": "PEER2PEER CHARITY RAFFLE | £8,800+ IN PRIZES | 5X END PRIZES!",
+    "competition_url": "https://borderscompetitions.co.uk/comp/peer2peer-charity-raffle/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "site": "borderscompetitions.co.uk",
+    "product_id": 3685271,
+    "text": "bc-audit-seal 1\nsite borderscompetitions.co.uk\nproduct 3685271\npool 19\ncapacity 7000\nprizes 140 d55756a71dcf68a3a5fe14678f43e6285ec9dff4d8329274088b721c040bb016\nkey e0f32da17a2ef51c80e850194e04869e4f3fa11dd5b521419aae083dfa56a262\nsealed 2026-11-13T08:19:55Z\n",
+    "text_sha256": "4eb3c7a5361439375da5305cdeab8d97c8d8a765ae2c1b12ee2872c1fa808061",
+    "received_at": "2026-11-13T08:20:04.000000Z",
+    "prev_hash": "04d8293c4f844d3b20a1efc601af9978f4259d4f36c887627c21439f3f050d0b",
+    "record_hash": "fbe74d3e2e8dca44e8dc0de1f9f0a2d125f875c9312c59af453d5b0c1abf504f"
+}
