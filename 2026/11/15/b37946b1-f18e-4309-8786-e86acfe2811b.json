@@ -1,0 +1,22 @@
+{
+    "round_id": "b37946b1-f18e-4309-8786-e86acfe2811b",
+    "draw_title": "ATOMIC INSTANT WINS | £250,000+ IN PRIZES | £50,000 END PRIZE | LOWEST INSTANT = £1,000!",
+    "competition_url": "https://borderscompetitions.co.uk/comp/atomic-instant-wins/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "ead1e4b265d653a228e5a3cd1daae8c3f9f0e6484ef006a9311ded467f96fed2",
+    "drand_seed_hash": "a663e30e2651214c5fc46d8495f2a1f864090212b8c71afcd143305f4dd24b2d09d8460e90bf17e30613df68e76acb99",
+    "client_seed": "1794776706229",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 976801,
+    "max_tickets": 5000000,
+    "combined_hash": "5e6eaffb5f89e6b713e543d78c40658bcbc0560c25811375629c758a63f5c7c6",
+    "result": "2578271",
+    "external_round_id": "33991116",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T21:05:06.000000Z",
+    "revealed_at": "2026-11-15T21:05:14.000000Z"
+}
