@@ -1,0 +1,18 @@
+{
+    "record_id": "ySCbSvrwBHk7ar",
+    "record_type": "instant-win-audit-seal",
+    "draw_title": "£20,000 CASH FOR 1P",
+    "competition_url": "https://borderscompetitions.co.uk/comp/20000-cash-for-1p/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "site": "borderscompetitions.co.uk",
+    "product_id": 3690307,
+    "text": "bc-audit-seal 1\nsite borderscompetitions.co.uk\nproduct 3690307\npool 29\ncapacity 4200000\nprizes 0 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\nkey 035bc98c6737bee6a05ca40f853e8099b2b78b4543c749e347c1bd5bdc344b05\nsealed 2026-11-15T15:40:22Z\n",
+    "text_sha256": "b4c7891bbd24263e3b788ae9a478c9cba76ad533e159d4c81f238fb7ce07a579",
+    "received_at": "2026-11-15T15:40:50.000000Z",
+    "prev_hash": "7c1607f87a0dc8f7d4121ed0e2aab2bd6c6e266f61850c21e2b627b4d2da26cd",
+    "record_hash": "d120a04e68b011d867b79a17762cdce52639239d1a019c70f092522270b4eb0e"
+}
