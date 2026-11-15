@@ -1,0 +1,22 @@
+{
+    "round_id": "4351c884-9a9a-470f-adc7-c5014447e856",
+    "draw_title": "WIN 2X VIP TICKETS TO FURY VS JOSHUA + HOTEL STAY!",
+    "competition_url": "https://borderscompetitions.co.uk/comp/win-2x-vip-tickets-to-fury-vs-joshua/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "c652d9504a18764d8cc946c56bccd349a41721b8d9af59c3d9e7b9021139c0d3",
+    "drand_seed_hash": "b9625065e59ce1dfaf412873e048503450c645bd3b69a358ffe579b4140b0ef1f6057ad829ca1907ca0998b62f7c2159",
+    "client_seed": "1794776341389",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 88868,
+    "max_tickets": 143750,
+    "combined_hash": "f3ae34883ed924ae9e11053dd45380efd9be3d4add1c76d9631bc2f8a95e8692",
+    "result": "104036",
+    "external_round_id": "33990995",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T20:59:01.000000Z",
+    "revealed_at": "2026-11-15T20:59:11.000000Z"
+}
