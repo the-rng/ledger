@@ -1,0 +1,20 @@
+{
+    "record_id": "jzGwqtMhKNgpG4",
+    "record_type": "instant-win-audit-reveal",
+    "draw_title": "PET ATOMIC NEW TEST",
+    "competition_url": "https://staging.borderscompetitions.co.uk/comp/pet-atomic-new-test/",
+    "operator": {
+        "name": "The-RNG",
+        "website": "https://the-rng.com",
+        "company_number": "SC1111111"
+    },
+    "site": "staging.borderscompetitions.co.uk",
+    "product_id": 699559,
+    "text": "bc-audit-reveal 1\nseal 3c415f9a26109fa0da8cb2dad6f20d237f17ccfe0474ebd351ab69f4fd28ba39\nkey 72610036e209a51b9f9279ebbc7ca324f3cd830deff76e7fcc68864141ea5279\nissued 3679\nlines 10 2387e106de7261aa8970028efb5cb017dff721f8e997ebaf12ca8325830bb547\nwins 3673 3381801448671d540f47ab4005a7fb27f016694dfc8984dbfc4dd6679d6bbc1b\nchain 4 ca4ecd2d94708bc593e51b890b61380f8c600bfb8cf20563e0609bf0179bfb75\nstaff 10 9b22f3a4f5c18bf2e0163072c1493d4cd099cd8b140444b91506a94c7ba4a92a\nrevealed 2026-11-16T18:56:06Z\n",
+    "text_sha256": "7da7a81a2277486618fa06879719af965160a3ba907ac52515e7384e369bc6a2",
+    "seal_record": "8vjqJSZ88ayheg",
+    "key_matches_seal": true,
+    "received_at": "2026-11-16T18:56:07.000000Z",
+    "prev_hash": "1ce54f64602f63813de7b6eb7330f31c70e01d9957732e40aacfa0a2594c60b7",
+    "record_hash": "f02959b7bc4ec348047654fdb0dbffe5f79e61ed86350add014cd2445094a8a5"
+}
