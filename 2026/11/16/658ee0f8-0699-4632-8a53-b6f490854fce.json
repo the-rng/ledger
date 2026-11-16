@@ -1,0 +1,22 @@
+{
+    "round_id": "658ee0f8-0699-4632-8a53-b6f490854fce",
+    "draw_title": "WIN THE P.LOUISE WHAT GLOWS AROUND 2026 ADVENT CALENDAR",
+    "competition_url": "https://borderscompetitions.co.uk/comp/win-the-p-louise-what-glows-around-2026-advent-calendar/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "49615355f7f859b0b52347305dfb397ed8e7867ccd8adeb8ef66f89a5849a399",
+    "drand_seed_hash": "a50fcf11974ef9056f2e1fd60f26b9874957ad2f7a8561d2f8c905b2b77dcbc446c07b4c5ea142bcc727d268894cfe87",
+    "client_seed": "1794862472303",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 11043,
+    "max_tickets": 12000,
+    "combined_hash": "a9507dcd56843e59ae36806155a62988d35ebad059de2ae1b17bd68ef47b9e0e",
+    "result": "1930",
+    "external_round_id": "34019705",
+    "processing_status": "completed",
+    "created_at": "2026-11-16T20:54:32.000000Z",
+    "revealed_at": "2026-11-16T20:54:41.000000Z"
+}
