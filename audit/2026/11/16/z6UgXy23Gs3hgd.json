@@ -1,0 +1,20 @@
+{
+    "record_id": "z6UgXy23Gs3hgd",
+    "record_type": "instant-win-audit-reveal",
+    "draw_title": "50X£50 CASH&#x1f525;",
+    "competition_url": "https://borderscompetitions.co.uk/comp/50x50/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "site": "borderscompetitions.co.uk",
+    "product_id": 3683512,
+    "text": "bc-audit-reveal 1\nseal 33dde630bfa54df5cd62966ed04ceddf75176361f5af054443a389257ba93570\nkey 07d8bf2892552b5911e3a1511a26189932bde98567b8966d57129c6e1c58ebb7\nissued 370000\nlines 691 5076eeba26df9ddac6050cb232446bdb43c9c0f22435aa60d567eafc0ec1902f\nwins 50 427de3c8d42c21337ec72444a5734eb42ff7b6a65e897a005526779a848b0368\nchain 0 0000000000000000000000000000000000000000000000000000000000000000\nstaff 0 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\nrevealed 2026-11-16T20:00:01Z\n",
+    "text_sha256": "681f3f5aec1afbb98b5114afd78249f1b7c2339c726c6e61e053b7aa18c5a10b",
+    "seal_record": "XtH35qYwWTmHZP",
+    "key_matches_seal": true,
+    "received_at": "2026-11-16T20:00:02.000000Z",
+    "prev_hash": "f02959b7bc4ec348047654fdb0dbffe5f79e61ed86350add014cd2445094a8a5",
+    "record_hash": "ef98a8cd461986ab284fe8f9715dd774280a67ea64e13cc06d9169ef832e015c"
+}
