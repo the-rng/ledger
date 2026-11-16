@@ -1,0 +1,18 @@
+{
+    "record_id": "3N1URf9KN9HQsS",
+    "record_type": "instant-win-audit-seal",
+    "draw_title": "£2,500+ JELLY CAT INSTANT WINS | CHOOSE YOUR OWN JELLY CAT!",
+    "competition_url": "https://borderscompetitions.co.uk/comp/2500-jelly-cat-instant-wins-choose-your-own-jelly-cat/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "site": "borderscompetitions.co.uk",
+    "product_id": 3704641,
+    "text": "bc-audit-seal 1\nsite borderscompetitions.co.uk\nproduct 3704641\npool 30\ncapacity 130000\nprizes 57 6b33523d89894d6df12137cea483a9c0e8775540cecbe05bb61768e4613177d7\nkey 87ca62e7285127d8f18c12847cb4f9d3acc1a25f36725996631488c241e99269\nsealed 2026-11-16T20:18:12Z\n",
+    "text_sha256": "c178f2a46640d2a9f2da846e89a120b5f0081a01db0d380b7b3a5605830dc136",
+    "received_at": "2026-11-16T20:18:50.000000Z",
+    "prev_hash": "ef98a8cd461986ab284fe8f9715dd774280a67ea64e13cc06d9169ef832e015c",
+    "record_hash": "339cbbde13b177965ca7b02cfbd334d3773ce0edeb7a2563c59ecf8a2dd08571"
+}
