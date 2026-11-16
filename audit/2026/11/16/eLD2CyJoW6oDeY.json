@@ -1,0 +1,18 @@
+{
+    "record_id": "eLD2CyJoW6oDeY",
+    "record_type": "instant-win-audit-seal",
+    "draw_title": "£500 TICKET BUNDLE | 2X MERCEDES DRAW | BOOST YOUR CHANCES!",
+    "competition_url": "https://borderscompetitions.co.uk/comp/500-ticket-bundle-2x-mercs/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "site": "borderscompetitions.co.uk",
+    "product_id": 3704865,
+    "text": "bc-audit-seal 1\nsite borderscompetitions.co.uk\nproduct 3704865\npool 33\ncapacity 20000\nprizes 0 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\nkey bfe756a4a53b5d8290424c3dc4eb3fe6c8cab31299070ee7b38d20860a0d53ea\nsealed 2026-11-16T20:55:57Z\n",
+    "text_sha256": "b3883d90d1ff38a6e1f468f10e59fd5816f23f9b72b2ed72ff9299d953999d31",
+    "received_at": "2026-11-16T20:56:01.000000Z",
+    "prev_hash": "cb55d00514427cd48386fd8f8bedcb293fdcfbc9ebce02bdcd7f9c127ff27048",
+    "record_hash": "c324310a0b4ca69170c0dd0d9003f50b518d60f3133e109bd62edc6081e84903"
+}
