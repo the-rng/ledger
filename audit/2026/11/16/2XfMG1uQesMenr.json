@@ -1,0 +1,20 @@
+{
+    "record_id": "2XfMG1uQesMenr",
+    "record_type": "instant-win-audit-reveal",
+    "draw_title": "THE CONSOLATION PRIZE | £5,000 CASH | LOSERS ONLY",
+    "competition_url": "https://borderscompetitions.co.uk/comp/the-consolation-prize/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "site": "borderscompetitions.co.uk",
+    "product_id": 3683049,
+    "text": "bc-audit-reveal 1\nseal f5d21548541a487eca7c10152b8dbfbf046b8988b358ae072cd25bf9c20233fa\nkey 9215278f4eccaa90c71c7401603115b368d7eed3a29073334315d6500773d50f\nissued 191668\nlines 2651 fea899c91991962154a5f1cd569577ecf1b56afb27cea2603918d3bfa364ee71\nwins 0 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\nchain 0 0000000000000000000000000000000000000000000000000000000000000000\nstaff 0 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\nrevealed 2026-11-16T20:45:01Z\n",
+    "text_sha256": "3db1a9f8bdf8a14930d3c7b6b5dd46759eee0f71f85ad8a81ba166c49ffebc9c",
+    "seal_record": "XU3ste197voZfF",
+    "key_matches_seal": true,
+    "received_at": "2026-11-16T20:45:02.000000Z",
+    "prev_hash": "8ee75cb5c60b6a410636fab36bb56756540f927e55557c091eac9c9a3eff6e5f",
+    "record_hash": "f11db8be23d78f9d32cdea67d06a90b03cccee984796a71d47fa7ab9dc086966"
+}
