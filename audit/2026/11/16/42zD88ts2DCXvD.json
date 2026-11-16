@@ -1,0 +1,18 @@
+{
+    "record_id": "42zD88ts2DCXvD",
+    "record_type": "instant-win-audit-seal",
+    "draw_title": "ROCKET RUSH | £110,000 IN PRIZES | £10,000 END PRIZE! | LOWEST WIN = £1,000 CASH!",
+    "competition_url": "https://borderscompetitions.co.uk/comp/rocket-rush-100000/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "site": "borderscompetitions.co.uk",
+    "product_id": 3704797,
+    "text": "bc-audit-seal 1\nsite borderscompetitions.co.uk\nproduct 3704797\npool 31\ncapacity 1200000\nprizes 29 133298360860bae95049d0a061f3f3a70111d14b42dc08e7e20114182e351ffb\nkey f330cf3d364f7045d5091be33b93c16fe3af117b802aa953d977875ece2e5aad\nsealed 2026-11-16T20:38:52Z\n",
+    "text_sha256": "675d6607a73b46a314a5972095c7e42e7bae77ed244c64f0a25c19a0fed974f7",
+    "received_at": "2026-11-16T20:39:02.000000Z",
+    "prev_hash": "e13459407de898d02fbe5529a83d17944cfd3edf1f5206bef395bc84a619926d",
+    "record_hash": "8ee75cb5c60b6a410636fab36bb56756540f927e55557c091eac9c9a3eff6e5f"
+}
