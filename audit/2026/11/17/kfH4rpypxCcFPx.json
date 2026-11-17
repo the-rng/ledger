@@ -1,0 +1,20 @@
+{
+    "record_id": "kfH4rpypxCcFPx",
+    "record_type": "instant-win-audit-reveal",
+    "draw_title": "WIN A 2019 SEAT IBIZA FOR ONLY 1P | £7,500 CASH ALT",
+    "competition_url": "https://borderscompetitions.co.uk/comp/win-a-2019-seat-ibiza-1-0-fr-for-1p/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "site": "borderscompetitions.co.uk",
+    "product_id": 3684271,
+    "text": "bc-audit-reveal 1\nseal 71b2d3accfd7a9535a85d0afb4cd55605324d0e1d006abaf3989d8a8eeabbbf4\nkey 8349d40da5eb4d226b96608ed883f082cad5e781c8321f04d5727b1a904b3bd5\nissued 1221219\nlines 3420 97b54e90d3b3b8517fba07d670d2ffc769915c6c054e3314d079377645a6e4f3\nwins 0 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\nchain 0 0000000000000000000000000000000000000000000000000000000000000000\nstaff 0 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\nrevealed 2026-11-17T20:45:35Z\n",
+    "text_sha256": "c60f832c2927e8f043cb6569a95f7a40850628c93ff8592a7b596ddc4b64deb1",
+    "seal_record": "nekLdPxfWjnPLq",
+    "key_matches_seal": true,
+    "received_at": "2026-11-17T20:45:49.000000Z",
+    "prev_hash": "2227f71d78876f49778b335a1c31bf4bc737a040348028fdb579ecbb228b8461",
+    "record_hash": "ad5ac7302e76b6f449bd2b8a58861169b43f1e97d4cc4fb7d7d4e9fe8a6e394c"
+}
