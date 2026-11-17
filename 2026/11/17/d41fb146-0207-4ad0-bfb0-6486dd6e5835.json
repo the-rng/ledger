@@ -1,0 +1,22 @@
+{
+    "round_id": "d41fb146-0207-4ad0-bfb0-6486dd6e5835",
+    "draw_title": "WIN A 2019 SEAT IBIZA FOR ONLY 1P | £7,500 CASH ALT",
+    "competition_url": "https://borderscompetitions.co.uk/comp/win-a-2019-seat-ibiza-1-0-fr-for-1p/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "8ab29668b5918c47b65aab64ace403507e2814fdcc4610a6d392322d71b46576",
+    "drand_seed_hash": "a3a4691bdc7e199405c80174503a3ffb354d892e56347277be955acc150c8fad67b9d8e432a3d11146b1ac60ef8b5113",
+    "client_seed": "1794949200891",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 1221219,
+    "max_tickets": 3300000,
+    "combined_hash": "37eeabe3a7e6b1233990c788eb8bde6d4beb9f764a3eabe1448bff9eb2a1a355",
+    "result": "1595672",
+    "external_round_id": "34048614",
+    "processing_status": "completed",
+    "created_at": "2026-11-17T21:00:00.000000Z",
+    "revealed_at": "2026-11-17T21:00:08.000000Z"
+}
