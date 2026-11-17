@@ -1,0 +1,18 @@
+{
+    "record_id": "d96wNWkXCCLkwL",
+    "record_type": "instant-win-audit-seal",
+    "draw_title": "NUCLEAR",
+    "competition_url": "https://staging.borderscompetitions.co.uk/comp/nuclear/",
+    "operator": {
+        "name": "The-RNG",
+        "website": "https://the-rng.com",
+        "company_number": "SC1111111"
+    },
+    "site": "staging.borderscompetitions.co.uk",
+    "product_id": 699576,
+    "text": "bc-audit-seal 1\nsite staging.borderscompetitions.co.uk\nproduct 699576\npool 10\ncapacity 5000000\nprizes 1 88679beadbcad4a09edf967d507876f71a61f3b4038724ba8edcfd7853d92cf9\nkey 07381a364d6274f9f3493d027dc2c7d2543d8d06ff38d8d5fae6ca5d96c5b588\nsealed 2026-11-17T18:55:17Z\n",
+    "text_sha256": "8c49c709cd9b0995b1bc1d335dceb11952f04d5366fe5106bdfe7fcfff350d24",
+    "received_at": "2026-11-17T18:56:21.000000Z",
+    "prev_hash": "c324310a0b4ca69170c0dd0d9003f50b518d60f3133e109bd62edc6081e84903",
+    "record_hash": "7830930da0d8ce22065c4d67d7f61f31ad8b6454269da9a3574f48a321612c68"
+}
