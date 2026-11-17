@@ -1,0 +1,20 @@
+{
+    "record_id": "NKY6dupmKANa7i",
+    "record_type": "instant-win-audit-reveal",
+    "draw_title": "£500 LOCAL BUTCHER VOUCHER | GET READY FOR XMAS",
+    "competition_url": "https://borderscompetitions.co.uk/comp/500-local-butcher-voucher-get-ready-for-xmas/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "site": "borderscompetitions.co.uk",
+    "product_id": 3683604,
+    "text": "bc-audit-reveal 1\nseal 3ba0717be9d088627c25eb0e7baed65f45ad43d74a62542554bce80c073ef16c\nkey dee8f16d0e98aa59f52c3a97eeeb10e79bffa5dd5d3d054390463e3c8fc9fba7\nissued 50000\nlines 755 8310b52c56f528904eee6a406d9734b115839909faa57aa3f08ae9a25b9c11b1\nwins 0 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\nchain 0 0000000000000000000000000000000000000000000000000000000000000000\nstaff 0 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\nrevealed 2026-11-17T20:45:01Z\n",
+    "text_sha256": "dd801965b9db89fd0174932f34f39ffc39e1ce8622251a96609eae0bdd81d940",
+    "seal_record": "QExfJ3mStS2hjq",
+    "key_matches_seal": true,
+    "received_at": "2026-11-17T20:45:02.000000Z",
+    "prev_hash": "7830930da0d8ce22065c4d67d7f61f31ad8b6454269da9a3574f48a321612c68",
+    "record_hash": "2227f71d78876f49778b335a1c31bf4bc737a040348028fdb579ecbb228b8461"
+}
