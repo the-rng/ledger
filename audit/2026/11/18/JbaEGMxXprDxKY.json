@@ -1,0 +1,18 @@
+{
+    "record_id": "JbaEGMxXprDxKY",
+    "record_type": "instant-win-audit-seal",
+    "draw_title": "WIN A NINJA MAX 6-IN-1 DUAL ZONE AIR FRYER 9.5L | £300 CASH ALT",
+    "competition_url": "https://borderscompetitions.co.uk/comp/win-a-ninja-max-6-in-1-dual-zone-air-fryer-9-5l-300-cash-alt/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "site": "borderscompetitions.co.uk",
+    "product_id": 3709361,
+    "text": "bc-audit-seal 1\nsite borderscompetitions.co.uk\nproduct 3709361\npool 36\ncapacity 20000\nprizes 0 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\nkey e4284e141b04784d64e587d256d8f72ba66cf78cd445ce017809155d0283892a\nsealed 2026-11-18T21:02:31Z\n",
+    "text_sha256": "e247876dfa8dd7ef722aedb0c6d27feed14900b59e35e85733632b3abd9699be",
+    "received_at": "2026-11-18T21:02:50.000000Z",
+    "prev_hash": "7512cb086d45fd4998735c06b250031f766f82944dc16b13b3fc23cc10f6c9d1",
+    "record_hash": "b89d31a7cc3478991c359b8b333cc51e7434cf67a485e3b2debb348d4791c53c"
+}
