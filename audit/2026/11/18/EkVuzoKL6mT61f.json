@@ -1,0 +1,18 @@
+{
+    "record_id": "EkVuzoKL6mT61f",
+    "record_type": "instant-win-audit-seal",
+    "draw_title": "£500 LOCAL SHOP VOUCHER | SUPPORTING LOCAL BUSINESSES",
+    "competition_url": "https://borderscompetitions.co.uk/comp/500-local-shop-voucher-supporting-local-businesses/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "site": "borderscompetitions.co.uk",
+    "product_id": 3709359,
+    "text": "bc-audit-seal 1\nsite borderscompetitions.co.uk\nproduct 3709359\npool 35\ncapacity 20000\nprizes 0 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\nkey 9dac7b453df3f9d39db94368ce0fb83a165f2225bb35c65a4b0c09199aeafd13\nsealed 2026-11-18T21:13:03Z\n",
+    "text_sha256": "1c78f31ac801411a22bcad59f65afd7500748100e66289c02277f44f3504ee7d",
+    "received_at": "2026-11-18T21:13:50.000000Z",
+    "prev_hash": "b89d31a7cc3478991c359b8b333cc51e7434cf67a485e3b2debb348d4791c53c",
+    "record_hash": "3a053a5f428f1a5d903cb4a46985ad7472aa4f3e8fe0cd49e4f3b46432eeff8c"
+}
