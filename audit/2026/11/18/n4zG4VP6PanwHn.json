@@ -1,0 +1,18 @@
+{
+    "record_id": "n4zG4VP6PanwHn",
+    "record_type": "instant-win-audit-seal",
+    "draw_title": "PRIZE EVERY TIME | DAILY EDITION | TUESDAY",
+    "competition_url": "https://borderscompetitions.co.uk/comp/prize-every-time-daily-edition-tuesday/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "site": "borderscompetitions.co.uk",
+    "product_id": 3689798,
+    "text": "bc-audit-seal 1\nsite borderscompetitions.co.uk\nproduct 3689798\npool 26\ncapacity 3000\nprizes 3000 8d72f2377d371d94b57e1c874dedbed25db7905adbdd9e73024554df51da8cbd\nkey 16fa6bf5d7f00fffb8ecb2f2f7c882b1109e5e8c53840a98457e79e2535676b9\nsealed 2026-11-18T20:31:52Z\n",
+    "text_sha256": "f869c8b61e5b6fe42c780bdb3e9967a7008190bc45f422096d8066fbfd77ea44",
+    "received_at": "2026-11-18T20:32:02.000000Z",
+    "prev_hash": "64fa2c59c03dcb540670752850f59cf89b75292c6d3371146f170007a2fdd0a5",
+    "record_hash": "b506e0f3eeec7a4847763f5fff6bee71942adc2804f8af891e7897a4b05b1bb5"
+}
