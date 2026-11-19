@@ -1,0 +1,22 @@
+{
+    "round_id": "c07aa8f5-6753-4532-a0f4-6ed5139d9755",
+    "draw_title": "£10,000+ TECH TAKEOVER BUNDLE | APPLE, LG, SONOS, PHILLIPS | £10,000 CASH ALT",
+    "competition_url": "https://borderscompetitions.co.uk/comp/tech-takeover/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "2f7c142b82b4a8cb108595cc685e750007adfd6508bec2c13c309b8e8c19ecdb",
+    "drand_seed_hash": "8bbf24d33af0419399c32f64744aafb22afb6b85ca176cf77ba32a3fceefaa3764004f7dd5452fae1c98f12ea8eed372",
+    "client_seed": "1795122014862",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 95444,
+    "max_tickets": 250000,
+    "combined_hash": "2cc276cde0b64d48ebabfd2623db020998349b430cfaa98f400c29075930b8f3",
+    "result": "112237",
+    "external_round_id": "34106219",
+    "processing_status": "completed",
+    "created_at": "2026-11-19T21:00:14.000000Z",
+    "revealed_at": "2026-11-19T21:00:23.000000Z"
+}
