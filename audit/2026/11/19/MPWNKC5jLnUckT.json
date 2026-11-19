@@ -1,0 +1,20 @@
+{
+    "record_id": "MPWNKC5jLnUckT",
+    "record_type": "instant-win-audit-reveal",
+    "draw_title": "£10,000+ TECH TAKEOVER BUNDLE | APPLE, LG, SONOS, PHILLIPS | £10,000 CASH ALT",
+    "competition_url": "https://borderscompetitions.co.uk/comp/tech-takeover/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "site": "borderscompetitions.co.uk",
+    "product_id": 3684326,
+    "text": "bc-audit-reveal 1\nseal a8e175dfac6514e15fc56d910cf5e07e46635acf7fbe3893b44fdf086f35d398\nkey 4e88b57461826b2e184f4293fadfc7adc091ae213ebd01f07b5f207a86537116\nissued 95444\nlines 2425 583d88d473ef5e5d4175bbf68eb6f1e8825947d7a47e346027d8c3dba4d18438\nwins 0 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\nchain 0 0000000000000000000000000000000000000000000000000000000000000000\nstaff 0 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\nrevealed 2026-11-19T20:49:49Z\n",
+    "text_sha256": "84a1a96938dab1e436436271705f56cea36173a2d55226137ceca778990b42bf",
+    "seal_record": "Z3AWpH4qY28GWR",
+    "key_matches_seal": true,
+    "received_at": "2026-11-19T20:49:50.000000Z",
+    "prev_hash": "c054341771e92095352df47b6eec7737380f3c9366366c3fc3383d7dbd6ce57e",
+    "record_hash": "5bc6fc3378fb6fb19a4155e6c0990f4cfc8134fa47713f01b151bd0f842e7e1f"
+}
