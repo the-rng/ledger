@@ -1,0 +1,22 @@
+{
+    "round_id": "7fa88d7c-dadd-4f51-a24f-c461ca33cd82",
+    "draw_title": "WIN A BRAND NEW DYSON V16 PISTON ANIMAL SUBMARINE | £500 CASH ALT",
+    "competition_url": "https://borderscompetitions.co.uk/comp/win-a-dyson-v16-piston-animal-submarine-500-cash-alt/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "09657ef48c22946dab0e438898121a1a7472b9900a6aed4530a51e526f39d1a6",
+    "drand_seed_hash": "8e95a4db4db100c99f7aff40a09d8dc9a51b551ca0a17fbe076345a9abcee9b5481cc3ab27cecc1bc17fc08af4b802c6",
+    "client_seed": "1795208552761",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 24989,
+    "max_tickets": 36000,
+    "combined_hash": "e709241d2c236f1ffe01aec928b3e51e919dc469708447dc906515900c499809",
+    "result": "21096",
+    "external_round_id": "34135065",
+    "processing_status": "completed",
+    "created_at": "2026-11-20T21:02:32.000000Z",
+    "revealed_at": "2026-11-20T21:02:41.000000Z"
+}
