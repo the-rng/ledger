@@ -1,0 +1,18 @@
+{
+    "record_id": "eux97Rr4g4ofKS",
+    "record_type": "instant-win-audit-seal",
+    "draw_title": "£500 FOR FREE | MEMBERS ONLY",
+    "competition_url": "https://borderscompetitions.co.uk/comp/500-for-free-members-only/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "site": "borderscompetitions.co.uk",
+    "product_id": 3717210,
+    "text": "bc-audit-seal 1\nsite borderscompetitions.co.uk\nproduct 3717210\npool 37\ncapacity 500\nprizes 0 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\nkey 1261f2b5357558873f1b61693aa685e34a340bac6e08c450c577519ae5624bfa\nsealed 2026-11-20T20:08:02Z\n",
+    "text_sha256": "593892cd3b97f32defe5aa9dd0abd1a31dbd87814598fe404250d0f1b81a88fa",
+    "received_at": "2026-11-20T20:08:49.000000Z",
+    "prev_hash": "6a117cf165c4ed502a746c195fc5c185138466b7b623f6b12546c62bc678279d",
+    "record_hash": "e7c81fc794d4a38a59c942ffc6c8b62cd361b1d2b823e30c8a1154a770b7f2ab"
+}
