@@ -1,0 +1,18 @@
+{
+    "record_id": "KEXitMHyFPFUzg",
+    "record_type": "instant-win-audit-seal",
+    "draw_title": "THE ULTIMATE CHRISTMAS WISH LIST INSTANT WINS | £50,000+ IN PRIZES",
+    "competition_url": "https://borderscompetitions.co.uk/comp/the-ultimate-christmas-wish-list/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "site": "borderscompetitions.co.uk",
+    "product_id": 3718605,
+    "text": "bc-audit-seal 1\nsite borderscompetitions.co.uk\nproduct 3718605\npool 38\ncapacity 689111\nprizes 314 bac8cab2fc15b25895c43228fcdf32cfbd4724ab69b2a481737ed58a2ecda911\nkey 45e3a91f0c069219e0c154f8f782ee41f9e74da979885612b0c2ef38dec8246d\nsealed 2026-11-21T12:51:42Z\n",
+    "text_sha256": "def98c841fa1ac58b02a3374f822ce229ea4f778f72a801cab39773287567603",
+    "received_at": "2026-11-21T12:51:50.000000Z",
+    "prev_hash": "dbd886d8ee2e12997424f51b90f333abf1722017f221e87d2399b89ed5ee649b",
+    "record_hash": "ca05954b2775f1c779d11ed519b027782b492fa3489c7d39a97b77c8c676cb8a"
+}
