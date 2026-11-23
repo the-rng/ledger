@@ -1,0 +1,18 @@
+{
+    "record_id": "iJDTx8dTPha1Jj",
+    "record_type": "instant-win-audit-seal",
+    "draw_title": "THE 1P MEGA CASH WHEEL | 2,500 PRIZES | £30,000 TOTAL JACKPOT",
+    "competition_url": "https://borderscompetitions.co.uk/comp/the-1p-mega-cash-wheel/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "site": "borderscompetitions.co.uk",
+    "product_id": 3721803,
+    "text": "bc-audit-seal 1\nsite borderscompetitions.co.uk\nproduct 3721803\npool 46\ncapacity 6000000\nprizes 2500 4e7aa435774123be8ce4dd3f7d8cfba38229a2a3ca309d8075bce65e308e06b0\nkey 23c419f5800721bf158246b0503117fb8d7e6ac6b01a10d8fb08ccd97f8cd2e8\nsealed 2026-11-23T18:32:20Z\n",
+    "text_sha256": "e27eb3b50054fbc68cce3df87b8e6348b27a6ec2e631eb9499bc22f848cb8baa",
+    "received_at": "2026-11-23T18:32:50.000000Z",
+    "prev_hash": "617f16023dccc88f80395f16aa81cd1a850adc62c2846b24aeae7f41afcf1a5e",
+    "record_hash": "38166c7382b4d81731423bba94f71fbc96e54ddec155e54ebc04aa0c189b7698"
+}
