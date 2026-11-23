@@ -1,0 +1,20 @@
+{
+    "record_id": "NYFnStLAiMB8By",
+    "record_type": "instant-win-audit-reveal",
+    "draw_title": "PRIZE EVERY TIME | DAILY EDITION | MONDAY",
+    "competition_url": "https://borderscompetitions.co.uk/comp/prize-every-time-daily-edition-monday/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "site": "borderscompetitions.co.uk",
+    "product_id": 3689795,
+    "text": "bc-audit-reveal 1\nseal 5e8bc9fa14c4859d198e12354d7e36420abd5115d0d81787235253bc0837f1da\nkey 1c1b66e814cbdf5e654e0eb32fbc8063a902b55423537f641f4232640718f3ee\nissued 2103\nlines 532 7ac993736a391acf1411c18fd36d66196b7231dbb9038116f09d7c33cc4f0e68\nwins 2103 59a23286efa6fc8153ea96bb92c02fcb9f20cf881bc8223a8f2a22d5fbed13a4\nchain 0 0000000000000000000000000000000000000000000000000000000000000000\nstaff 0 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\nrevealed 2026-11-23T20:00:01Z\n",
+    "text_sha256": "ae4bcb2ec1fad59dbf3001b32c7b57894d4b3903dda5ede2b75251cc51efc4ff",
+    "seal_record": "SkavbRtftDDEJD",
+    "key_matches_seal": true,
+    "received_at": "2026-11-23T20:00:03.000000Z",
+    "prev_hash": "38166c7382b4d81731423bba94f71fbc96e54ddec155e54ebc04aa0c189b7698",
+    "record_hash": "2cd9227b28001e0b6800ea213d8519b87a1d4d30534898dad02d211cbdd8c449"
+}
