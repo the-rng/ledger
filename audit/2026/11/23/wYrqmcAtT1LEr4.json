@@ -1,0 +1,20 @@
+{
+    "record_id": "wYrqmcAtT1LEr4",
+    "record_type": "instant-win-audit-reveal",
+    "draw_title": "ROCKET RUSH | £110,000 IN PRIZES | £10,000 END PRIZE! | LOWEST WIN = £1,000 CASH!",
+    "competition_url": "https://borderscompetitions.co.uk/comp/rocket-rush-100000/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "site": "borderscompetitions.co.uk",
+    "product_id": 3704797,
+    "text": "bc-audit-reveal 1\nseal 675d6607a73b46a314a5972095c7e42e7bae77ed244c64f0a25c19a0fed974f7\nkey d2c9952c278e3708e721fbf825eb217354c67f71ba6fc5ff996396e2262aed17\nissued 120380\nlines 4076 0789312eeca3273da9643085dea01934ed0b76c2c1b3c23f3099979e211df408\nwins 1 840c246fb78f16f1a7849d765c946025711cfc0a5486040880e96fea779d8fdf\nchain 2 c7881a09d33e824e0c3475d05b0fa9bedaac79f44e1c5e1d03564272023988f0\nstaff 0 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\nrevealed 2026-11-23T20:45:04Z\n",
+    "text_sha256": "c4de24333269bead60e878bf45d3c2bc57ee2395c05b23bc22bbe9cb477f73b8",
+    "seal_record": "42zD88ts2DCXvD",
+    "key_matches_seal": true,
+    "received_at": "2026-11-23T20:45:50.000000Z",
+    "prev_hash": "6add71c88f6e618191915aa4dc4439c754054378c758b325fc4a538b761b0d1c",
+    "record_hash": "deac67e8e182162f9a9e80f8f5c77bf42b9543319ee76fe0fe97cbce50add048"
+}
