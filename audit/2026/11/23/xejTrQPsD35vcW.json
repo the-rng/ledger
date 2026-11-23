@@ -1,0 +1,18 @@
+{
+    "record_id": "xejTrQPsD35vcW",
+    "record_type": "instant-win-audit-seal",
+    "draw_title": "FIREWOOD BUNDLE | SUPPLIED BY PEARSONS OF DUNS",
+    "competition_url": "https://borderscompetitions.co.uk/comp/firewood-bundle-supplied-by-pearsons-of-duns/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "site": "borderscompetitions.co.uk",
+    "product_id": 3721213,
+    "text": "bc-audit-seal 1\nsite borderscompetitions.co.uk\nproduct 3721213\npool 42\ncapacity 33520\nprizes 0 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\nkey e97a8292e5546657f8b5812b5bbe816655a300f5bd4759ae8573d96d10bb6087\nsealed 2026-11-23T15:35:35Z\n",
+    "text_sha256": "67a6f3a0d0d6cc038e73431afa4bad9d24e938cc7efd4ae8c92b2479acc55a12",
+    "received_at": "2026-11-23T15:35:51.000000Z",
+    "prev_hash": "fa4db0f8835abbb8b3a415e01c5abe0e4393ad1b569000b7a2719d934ae6e8f9",
+    "record_hash": "f03bd7b4cd408683d6ca18952120e01ebea6d9499bae33a988e3e6d2ff242c2e"
+}
