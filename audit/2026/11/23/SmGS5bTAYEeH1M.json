@@ -1,0 +1,18 @@
+{
+    "record_id": "SmGS5bTAYEeH1M",
+    "record_type": "instant-win-audit-seal",
+    "draw_title": "WIN THE SEPHORA FAVORITES ADVENT CALENDAR 2026 | £200 CASH ALT",
+    "competition_url": "https://borderscompetitions.co.uk/comp/win-the-sephora-favorites-advent-calendar-2026-200-cash-alt/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "site": "borderscompetitions.co.uk",
+    "product_id": 3721169,
+    "text": "bc-audit-seal 1\nsite borderscompetitions.co.uk\nproduct 3721169\npool 39\ncapacity 14100\nprizes 0 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\nkey 3e42fc5c11d80014c32739c3134a74fa87fde09b9529a90f563800cd2387195f\nsealed 2026-11-23T12:03:20Z\n",
+    "text_sha256": "7f53cbf189d85bb153bcf8fb79b995e433f32d7b965089c9063b8bee1be2e30a",
+    "received_at": "2026-11-23T12:03:50.000000Z",
+    "prev_hash": "ffc42cfbd3cb65ae6448b8407c417365cd1715c74c49bf1cbd91eeb1201aba12",
+    "record_hash": "8fd951ffd105c72cad09248faf527d607c4eeda2141c72c256b0c91c47056a66"
+}
