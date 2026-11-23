@@ -1,0 +1,22 @@
+{
+    "round_id": "5f855188-948d-4f16-bbf6-d7dc0db91cdc",
+    "draw_title": "ROCKET RUSH | £110,000 IN PRIZES | £10,000 END PRIZE! | LOWEST WIN = £1,000 CASH!",
+    "competition_url": "https://borderscompetitions.co.uk/comp/rocket-rush-100000/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "9e0363f82e87b29ace3a426dc8eefb1bd31b3acc7bb5b7bb052cdd0956e4a4d8",
+    "drand_seed_hash": "b76eaa3266000413b547b40c6b45440488cdf7e6e300d7ee3448187ca080c74032f1cd4c5719c3325e5a776cf0644ca0",
+    "client_seed": "1795467911063",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 120380,
+    "max_tickets": 1200000,
+    "combined_hash": "d9846380d00fecbdc63ded1511cced377e7636bda45b6666cd51be22c0f4f5e2",
+    "result": "5722",
+    "external_round_id": "34221518",
+    "processing_status": "completed",
+    "created_at": "2026-11-23T21:05:11.000000Z",
+    "revealed_at": "2026-11-23T21:05:19.000000Z"
+}
