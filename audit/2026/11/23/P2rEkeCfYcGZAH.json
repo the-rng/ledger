@@ -1,0 +1,20 @@
+{
+    "record_id": "P2rEkeCfYcGZAH",
+    "record_type": "instant-win-audit-reveal",
+    "draw_title": "£500 TICKET BUNDLE | 2X MERCEDES DRAW | BOOST YOUR CHANCES!",
+    "competition_url": "https://borderscompetitions.co.uk/comp/500-ticket-bundle-2x-mercs/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "site": "borderscompetitions.co.uk",
+    "product_id": 3704865,
+    "text": "bc-audit-reveal 1\nseal b3883d90d1ff38a6e1f468f10e59fd5816f23f9b72b2ed72ff9299d953999d31\nkey 13016b5bfae80c43cc1f63a113b29c4463316b9fce28696b70ed183fdc5f1d3c\nissued 20000\nlines 272 2380e164e76d80d0c20e943cc80677fc2ad2477a1f3b60a0f0f625e8c922d113\nwins 0 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\nchain 0 0000000000000000000000000000000000000000000000000000000000000000\nstaff 0 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\nrevealed 2026-11-23T20:45:01Z\n",
+    "text_sha256": "73d9724a2d3fc86551079737a988062ceaaac7ed893ddda633a52c0ab0a21a17",
+    "seal_record": "eLD2CyJoW6oDeY",
+    "key_matches_seal": true,
+    "received_at": "2026-11-23T20:45:02.000000Z",
+    "prev_hash": "57873d8748c664a8eab7592fa09c4fc2cc2fc137a195e8b5151feb1c5fc97aef",
+    "record_hash": "6add71c88f6e618191915aa4dc4439c754054378c758b325fc4a538b761b0d1c"
+}
