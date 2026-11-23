@@ -1,0 +1,18 @@
+{
+    "record_id": "6YkRdbtKwHFPRq",
+    "record_type": "instant-win-audit-seal",
+    "draw_title": "HUGE CASH INSTANT WINS | £30,000 JACKPOT | £5,000 END PRIZE",
+    "competition_url": "https://borderscompetitions.co.uk/comp/huge-cash-instant-wins-30000-jackpot-5000-end-prize/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "site": "borderscompetitions.co.uk",
+    "product_id": 3721327,
+    "text": "bc-audit-seal 1\nsite borderscompetitions.co.uk\nproduct 3721327\npool 43\ncapacity 778954\nprizes 16 c9da7870e5ffb1e2ef1019f27c01eb83f2d594636ebb9e9b8ab9169c0fac0aaf\nkey b52bd21a27cccef770287939ebf43cdf0e4656597d7b9db909dbd7245fb847fb\nsealed 2026-11-23T14:31:31Z\n",
+    "text_sha256": "57342eafae9788be99fefffce047169e447850fdd5b5296b987514347bbb9cee",
+    "received_at": "2026-11-23T14:31:50.000000Z",
+    "prev_hash": "8fd951ffd105c72cad09248faf527d607c4eeda2141c72c256b0c91c47056a66",
+    "record_hash": "fa4db0f8835abbb8b3a415e01c5abe0e4393ad1b569000b7a2719d934ae6e8f9"
+}
