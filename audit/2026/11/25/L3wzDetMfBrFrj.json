@@ -1,0 +1,18 @@
+{
+    "record_id": "L3wzDetMfBrFrj",
+    "record_type": "instant-win-audit-seal",
+    "draw_title": "£10,000 GIFT CARD MEGA WINS",
+    "competition_url": "https://borderscompetitions.co.uk/comp/10000-gift-card-mega-wins/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "site": "borderscompetitions.co.uk",
+    "product_id": 3725366,
+    "text": "bc-audit-seal 1\nsite borderscompetitions.co.uk\nproduct 3725366\npool 49\ncapacity 900000\nprizes 73 6876269b4ddaef79d6c50718ca3a066ef63a26687a2a1e98c27d36c73d7392d9\nkey e7d1c91074ecdabfa577096f225254aacd941a4952de8e49b9043cf413e26ecf\nsealed 2026-11-25T18:15:41Z\n",
+    "text_sha256": "711bbc9a13e69993cdc823c6be53e3cc4248d5e0bb3ed4a13932c4bfd1ceb6bd",
+    "received_at": "2026-11-25T18:15:49.000000Z",
+    "prev_hash": "599c1b3c1bf004270cc4d1aba6d1b6a67c50b35f78ac1eb6ad0afed29b91aa7c",
+    "record_hash": "6c0b1e39953b539b1b5f9379495df929a368b7164ecd20853924d939cbb84979"
+}
