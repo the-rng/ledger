@@ -1,0 +1,20 @@
+{
+    "record_id": "QapLVKMaibMQEM",
+    "record_type": "instant-win-audit-reveal",
+    "draw_title": "£500 LOCAL SHOP VOUCHER | SUPPORTING LOCAL BUSINESSES",
+    "competition_url": "https://borderscompetitions.co.uk/comp/500-local-shop-voucher-supporting-local-businesses/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "site": "borderscompetitions.co.uk",
+    "product_id": 3709359,
+    "text": "bc-audit-reveal 1\nseal 1c78f31ac801411a22bcad59f65afd7500748100e66289c02277f44f3504ee7d\nkey 658a87b4ebd7e1110351c04ec05bcb9e7f580902c6774cb30702af236a7cdca3\nissued 12750\nlines 420 8859105502420160490b78910b1f973eb7b68f2fd8454d62778b1c7baaf9b9ba\nwins 0 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\nchain 0 0000000000000000000000000000000000000000000000000000000000000000\nstaff 0 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\nrevealed 2026-11-25T20:45:01Z\n",
+    "text_sha256": "4203a58c8df27fed68c407c73613b884d172f6dba45c40d53af2c647e2bf4ac5",
+    "seal_record": "EkVuzoKL6mT61f",
+    "key_matches_seal": true,
+    "received_at": "2026-11-25T20:45:05.000000Z",
+    "prev_hash": "685513f4c229679bd6a03ec66cac23ff84adafcf675197b6bf6a75b9b40918bd",
+    "record_hash": "1e055c0ebf59a35a7623b2f4d45d4142ec792ef17721415cc96904a9f34fa2dd"
+}
