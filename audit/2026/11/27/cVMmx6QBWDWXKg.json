@@ -1,0 +1,18 @@
+{
+    "record_id": "cVMmx6QBWDWXKg",
+    "record_type": "instant-win-audit-seal",
+    "draw_title": "WIN £20,000 TAX FREE CASH FOR 20P | 12 DAYS OF BORDERS &#8211; DAY 1",
+    "competition_url": "https://borderscompetitions.co.uk/comp/win-20000-tax-free-cash-for-20p-12-days-of-borders-day-1/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "site": "borderscompetitions.co.uk",
+    "product_id": 3733599,
+    "text": "bc-audit-seal 1\nsite borderscompetitions.co.uk\nproduct 3733599\npool 52\ncapacity 225000\nprizes 0 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\nkey 4bd3941d3bb5d6ec38655b738363e9038530bdb168284082b04430c0d8519565\nsealed 2026-11-27T19:26:38Z\n",
+    "text_sha256": "759f1923da72b1b91a9854caf3a3ed389b92fe3f6ffc310d2d0d95bfc9999770",
+    "received_at": "2026-11-27T19:26:49.000000Z",
+    "prev_hash": "962df7582640f30a52022c9eea13066a1c4243bd394ece18bd4b17fb153cc688",
+    "record_hash": "0bb118333db25d2db4b891965fe2788086b806b49005e77984ee42eb6ccd9a0c"
+}
