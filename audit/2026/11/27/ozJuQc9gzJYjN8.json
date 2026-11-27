@@ -1,0 +1,20 @@
+{
+    "record_id": "ozJuQc9gzJYjN8",
+    "record_type": "instant-win-audit-reveal",
+    "draw_title": "£500 FOR FREE | MEMBERS ONLY",
+    "competition_url": "https://borderscompetitions.co.uk/comp/500-for-free-members-only/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "site": "borderscompetitions.co.uk",
+    "product_id": 3717210,
+    "text": "bc-audit-reveal 1\nseal 593892cd3b97f32defe5aa9dd0abd1a31dbd87814598fe404250d0f1b81a88fa\nkey 5ece80ec5349ba7754ace5c3fc823b374c4d4e72136f9f98e80adb465bef7167\nissued 226\nlines 226 1b242619c02e7d908e0607aa178edd332e341b91b63bc82603e714b6d442c6d9\nwins 0 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\nchain 0 0000000000000000000000000000000000000000000000000000000000000000\nstaff 0 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\nrevealed 2026-11-27T20:45:48Z\n",
+    "text_sha256": "8cd2102ce05ef08d3aa930785dad8ef97433807798e3483b1832a6ef1d0777ae",
+    "seal_record": "eux97Rr4g4ofKS",
+    "key_matches_seal": true,
+    "received_at": "2026-11-27T20:45:50.000000Z",
+    "prev_hash": "dc6e6f498bd68dc9455917af31833405c89c596a03b7260a83f6550509a89cc8",
+    "record_hash": "372e14e4e3e9658f849aa1808d21419f1ab34564095ef779fe826d95c44be268"
+}
