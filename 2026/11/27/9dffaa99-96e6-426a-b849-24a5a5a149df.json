@@ -1,0 +1,22 @@
+{
+    "round_id": "9dffaa99-96e6-426a-b849-24a5a5a149df",
+    "draw_title": "WIN A MERCEDES CAR BUNDLE | A35 AMG + CLA200 | INSTANT WINS | STAR PRIZE",
+    "competition_url": "https://borderscompetitions.co.uk/comp/mercedes-bundle/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "a26ac54983c741736aa06e41f91ab288bce28eb4898e523296c40609c48587c3",
+    "drand_seed_hash": "8f6210a1dd0ab2a84c4ee6a07b82691a44ab5698a1d7b1b2231a1c4d4968dad03fa5ccf90e259e2b912bdc4fc48a779f",
+    "client_seed": "1795813689275",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 495856,
+    "max_tickets": 1333334,
+    "combined_hash": "b0cc91beb58795aea4e4eacdf517e77af9ebbb2e92eee6dee613848e12d2bce3",
+    "result": "1224563",
+    "external_round_id": "34336777",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T21:08:09.000000Z",
+    "revealed_at": "2026-11-27T21:08:17.000000Z"
+}
