@@ -1,0 +1,18 @@
+{
+    "record_id": "Mm2mfnhaLZiyrD",
+    "record_type": "instant-win-audit-seal",
+    "draw_title": "PROJECT: £1 MILLION IN PRIZES | 10,000 INSTANTS | £100,000 END PRIZE | STAR PRIZE",
+    "competition_url": "https://borderscompetitions.co.uk/comp/project-1-million/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "site": "borderscompetitions.co.uk",
+    "product_id": 3724296,
+    "text": "bc-audit-seal 1\nsite borderscompetitions.co.uk\nproduct 3724296\npool 47\ncapacity 6060606\nprizes 10000 5d2dffab26bcfa44a6e729c2fd56dd3057cbf60f19b99bf63366217dec9cd3ba\nkey 889a8577a0a0e341344e70b57afcd3075a7d27838180d81c8ebf0042158de42e\nsealed 2026-11-27T18:05:04Z\n",
+    "text_sha256": "474b024eb6b6a03c82e957b9e2b1ca73e8a99dc85cd7e3b49c6f51f36e107a78",
+    "received_at": "2026-11-27T18:05:49.000000Z",
+    "prev_hash": "1e055c0ebf59a35a7623b2f4d45d4142ec792ef17721415cc96904a9f34fa2dd",
+    "record_hash": "4aa52be5b326a3cc83fcf51f6e551b9144e13397e37efdf4ce2d2c71872549ff"
+}
