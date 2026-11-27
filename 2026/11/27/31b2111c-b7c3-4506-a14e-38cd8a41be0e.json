@@ -1,0 +1,22 @@
+{
+    "round_id": "31b2111c-b7c3-4506-a14e-38cd8a41be0e",
+    "draw_title": "WIN PETER HICKMANS BMW CE 02 E SCOOTER | FUNDRAISING FOR THE LUCA GUINTOLI FOUNDATION",
+    "competition_url": "https://borderscompetitions.co.uk/comp/win-peter-hickmans-bmw-ce-02/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "drand_server_seed": "22df3d8cb888a1042c1627b81204e2e292414e2838a126fc1bcb12fa303ea9b8",
+    "drand_seed_hash": "9923e4cb3f2f0d1e4640c484c3efaeb79b2d52863501be89c05eacb926a8699a600dc0c11b10c1112a40a2ecab829978",
+    "client_seed": "1795813528367",
+    "static_salt": "aee874815cd18f485a56d43f49fab9d1",
+    "tickets_sold": 30296,
+    "max_tickets": 125000,
+    "combined_hash": "7907003cfda765db730aa7972d88ffff3c2b70e1662b25b273e98a9dbfa91786",
+    "result": "9874",
+    "external_round_id": "34336724",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T21:05:28.000000Z",
+    "revealed_at": "2026-11-27T21:05:38.000000Z"
+}
