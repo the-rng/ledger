@@ -1,0 +1,18 @@
+{
+    "record_id": "eazgqrgjgKt2Rs",
+    "record_type": "instant-win-audit-seal",
+    "draw_title": "PROJECT 1 MILLION | £1,000 TICKET BUNDLE",
+    "competition_url": "https://borderscompetitions.co.uk/comp/project-1-million-1000-ticket-bundle/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "site": "borderscompetitions.co.uk",
+    "product_id": 3733620,
+    "text": "bc-audit-seal 1\nsite borderscompetitions.co.uk\nproduct 3733620\npool 53\ncapacity 40000\nprizes 0 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\nkey f77f55e306a4173276fd3a79b443ede4fbf63a4f815ae135a3dbf2ebf814ad20\nsealed 2026-11-27T19:29:22Z\n",
+    "text_sha256": "a3832e25209807afc437cd920be0fd9fae21cc28912b25a997ccaae69406d02e",
+    "received_at": "2026-11-27T19:29:49.000000Z",
+    "prev_hash": "0bb118333db25d2db4b891965fe2788086b806b49005e77984ee42eb6ccd9a0c",
+    "record_hash": "00bbafd9f0476ea214c8279309de5f5eb4befaa1832cfa7fb7d2fa418581cbc7"
+}
