@@ -1,0 +1,18 @@
+{
+    "record_id": "mYBbmTs5r8QJrq",
+    "record_type": "instant-win-audit-seal",
+    "draw_title": "WIN A F1 PORTUGUESE GRAND PRIX 2027 PACKAGE FOR TWO | £2,250 CASH ALT | 12 DAYS OF BORDERS &#8211; DAY 2",
+    "competition_url": "https://borderscompetitions.co.uk/comp/win-a-formula-1-portuguese-grand-prix-2027-package/",
+    "operator": {
+        "name": "Borders Competitions",
+        "website": "https://borderscompetitions.co.uk/",
+        "company_number": "SC754813"
+    },
+    "site": "borderscompetitions.co.uk",
+    "product_id": 3732440,
+    "text": "bc-audit-seal 1\nsite borderscompetitions.co.uk\nproduct 3732440\npool 51\ncapacity 229900\nprizes 0 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\nkey 02586f76d3b772e220372cbf9b92e8283b391b61782eac5900f1544da648253a\nsealed 2026-11-27T19:10:56Z\n",
+    "text_sha256": "dc791ceb113554cd161b40fba8b7f9fbc97dc3717d35b7123bc46e596e52a5f0",
+    "received_at": "2026-11-27T19:11:02.000000Z",
+    "prev_hash": "4aa52be5b326a3cc83fcf51f6e551b9144e13397e37efdf4ce2d2c71872549ff",
+    "record_hash": "962df7582640f30a52022c9eea13066a1c4243bd394ece18bd4b17fb153cc688"
+}
